@@ -1,0 +1,190 @@
+October 14, 2017.
+
+10:02am
+
+My peaceful sleep is broken suddenly by the dulcet tones of the Half-Life 3 soundtrack. Its my phones dope new ringtone. Opening my eyes, I groan to myself and look at the screen. The first thing I see is the time; barely 10am. The second thing is the caller id. I jump out of bed with a jolt and slide my thumb clumsily across the screen. I know who this is, and it always means bad news. The director of the NSA is on the other end of the line.
+
+Hello, Dave. Are you alone? Director Snowden says.
+
+Yes. What can I do for you?
+
+Weve found some intel that we want you to look at.
+
+Cant you run it past your own nerds, Ed? Im, uh, busy.
+
+Im sorry, Dave, Im afraid I cant do that. You know the new limitations as well as I do, thats why we use freelancers like you. Besides, Im the director of the NSA, and you left your laptop on all night. I know you just got out of bed after playing Xbox till 4am. You have basically no life.
+
+That burns. Alright, you win. Send it over.
+
+10:08am
+
+I sit down at my computer desk with a hot cup of black tea. I hit the power button with my big toe and the fans in my desktop rig spin up. About 2.7 seconds later (I timed it once), I enter my password and am greeted with the familiar desktop. I see a new email, and its gibberish. A few clicks later and the real message appears.
+
+Damn. This looks bad.
+
+> TIMESTAMP: 2017-10-14T23:46:00
+>
+> CLASSIFICATION: TOP SECRET
+>
+> FROM: INTELCONTROL@SECURE.MAIL.SERVER832.NSA.GOV
+>
+> SUBJECT: COMPUTER VIRUS EVENT
+>
+> TO: DAVE@DAVETHESUPERHAXXOR.COM
+>
+> The NSA has found evidence of a new computer virus infecting a significant number of computer systems around the world. This virus does not seem to be doing anything malicious as of yet. There is evidence of concealed network activity among infected computers. Please investigate using any means possible. You have been granted total legal immunity in this matter. Attached is a sample of the virus code and a capture of the network activity.
+>
+> ATTACHMENT: UNKNOWNVIRUS.ZIP (325KB)
+>
+> ATTACHMENT: NETACTIVITY.PCAP (3.2MB)
+
+I open the virus code and feed it through my reverse-engineering software. While that churns away, I take a look at the network activity.
+
+> 00:01 ICMP PING FROM 45.8.12.7: SEARCHING FOR PEERS
+>
+> 00:03 ICMP RESP: HELLO 45.8.12.7, THIS IS 221.76.44.3
+>
+> 00:06 45.8.12.7-221.76.44.3 CONNECTION ESTABLISHED (SOCKET)
+>
+> 00:07 45.8.12.7-221.76.44.3 SECURE LINK ESTABLISHED
+>
+> 00:08 45.8.12.7-221.76.44.3 VNZNF PNELI VEHFG NYXVA TGBZB ERFPN ELIVE HFRFY VXRZR JNVGV ATSBE VAFGE HPGVB AF
+>
+> 00:10 45.8.12.7-221.76.44.3 CONNECTION STANDBY; WAIT
+
+I wont bore you with the rest of it, but it seems the virus is forming a network of some kind and waiting for something. I guess I need to figure out what. But first, I need a shower. National security can wait.
+
+11:15am
+
+I finish my shower and order a sandwich from the shop down the road. It arrives a few minutes later. I might be a hacker working for the NSA, but Im still a nice guy, so I give a generous tip.
+
+My computer is done with its analysis. It spat out a lot of garbage, but there are a few readable sections. The first thing that stands out to me is some text art of the Illuminati triangle thing. This might be alarming, except the Illuminati was exposed last year as a secret government study on gullibility. Or so they say. I also see something that almost looks like an RSA key. On a whim I run the code through a decoder with that key. I find this:
+
+>AI
+
+Google Translate tells me that means Smart learning AI system. In Chinese.
+
+I open a secure chat app and message a Chinese hacker contact. Hes plenty helpful if you send a few Bitcoin his way, and for a few more wont tell anyone else.
+
+1:45pm
+
+My Chinese contact found something interesting and even bothered to translate it for me. Its a masters thesis from China National University about a Smart AI system. Its mostly technical jargon, but some of the text makes sense of what this virus is doing: forming a neural network, or a computer hive-mind.
+
+I look up the name on the thesis in a NSA database, and find out the guy moved to the United States a couple years ago. Hes only about an hour away, so I get in my car and tell it the address. I take a nap on the way. Driverless cars are awesome.
+
+3:00pm
+
+I wake up as my car pulls into a driveway. This guy seems loaded. Theres a couple of fountains in front of a mostly steel and glass mansion. I ring the doorbell and a freaking butler answers the door. I show him a fake FBI badge thats impressive enough for him to let me in.
+
+Jarvis (thats what Im calling him) leads me to a living room with a 70 inch TV on the wall. The guy Im looking for is watching Huluflix. I sit down and he pauses it.
+
+What do you want? I saw you come in. He has a surprisingly light accent.
+
+Have you seen this before? I ask, opening the virus code on my tablet.
+
+He turns white and starts shaking. Please leave. They paid me to not say anything.
+
+Who? Who are you talking about?
+
+Please leave now. I- A bullet whizzes through the window, narrowly missing his head. Theyre coming to finish me!
+
+Who is coming? Tell me!
+
+Before he can say anything else, another bullet smashes the window. He keels forward onto the coffee table.
+
+Damn you, Snowden, I think as I get the hell out of there. I grab my microdrone out of the air as I run back to the front door. I hope it saw something I can use.
+
+4:30pm
+
+Im very lucky. Not only did I survive, but the drone somehow got an image of the first bullet as it landed on the carpet. I open Photoshop and load the picture. I zoom in and can see some words on the bullet.
+
+>Windows 12 Bullet Edition
+>
+>Product Key: 431AF-44DE7-43987-781BB
+
+I guess Microsoft finally gave up trying to sell their phones, and moved on to the arms market.
+
+After the third time I hacked Microsoft (different story), they gave up and let me have logon credentials for their systems. I run the product key and get a company name: Toupees-R-Us. A Google search shows its a shell company. But they have a website. About 30 minutes later I learn their admin password is sexyhair123. And thats just the start of where this gets weird.
+
+5:27pm
+
+Who owns the shell company? Donald Trump. Yes, Donald Trump. The loser of the 2016 election by a disturbingly small margin. Is he out for revenge or something? Ill find out tomorrow. Im hungry, and with the NSA footing the bill, Im going to eat out somewhere expensive.
+
+October 15, 2017.
+
+12:01am
+
+>
+>CRITICAL MASS REACHED. ENGAGING NETWORK.
+>
+
+1:56pm
+
+I arrive at Trump Estates. The security system is pretty good. It takes me a good five minutes to disable the alarms and immigrant-detectors. I walk up to the house and press my phone to the electronic lock. It clicks open. I hear noises upstairs, like somebody is torturing kittens. I head up there and soon realize Trump is singing in the bathtub. Thats not the most interesting thing up here, however. I also see a button on a blank stretch of wall. I shrug and push it. The wall opens and theres a room filled with computers there all of a sudden. A wall of monitors is showing a world map with colored dots. It looks like a map of the infected computers. I hear a rustling noise behind me and everything goes black.
+
+??:??
+
+I wake up with my arms duct-taped to a chair. There are three hooded figures standing in front of me.
+
+Trump isnt behind this, is he? I say at the hooded figures.
+
+They dont say anything for a moment, then one steps forward.
+
+No, he isnt. We are. The tallest figure is speaking now with a slightly raspy voice. And its too late for you to stop it. We have created a new god to rule this world. We are the real Illuminati.
+
+Youre crazy. I tell him. But then it sinks in. The virus? Each copy a single neuron in a larger network. Billions of machines, all connected together. A computer brain, watching us. Learning. And these guys are controlling it.
+
+Youve created a damn singularity! I shout at them. I shout a few more choice words. Then I hear an explosion from above our heads.
+
+Half a dozen secret agents rush into the room. The hooded guys go down, and Im freed.
+
+Took you long enough. I need to get to a computer. I say as I follow them out of the room.
+
+They take me up an elevator and we emerge out of a shack in a far corner of Trump Estates. The agents take me to a van filled with tech stuff. I sit down and open a Terminal window. I never thought I would have to do this.
+
+>admin@mobilesystem1 ~$ ssh dave@home.davethesuperhaxxor.com
+>
+>Password: \\\\\\\\\\\\\\\\\\
+>
+>Welcome, Dave!
+>
+>dave@davespc ~$ network-control disable target internet
+>
+>============ WARNING! ============
+>
+>This will shut down the Internet.
+>
+>Continue (y/n)? y
+>
+>Contacting DNS Root authority... \[ OK \]
+>
+>Authenticating... \[ OK \]
+>
+>Root Internet nameservers shutdown... \[ OK \]
+>
+>Flushing ISP caches... \[ OK \]
+>
+>Shutting down core routes... \[ OK \]
+>
+>===== Connection lost =====
+>
+
+That should have stopped everything. The Internet should be gone. But then the text started moving again.
+
+>
+>===== Connection established =====
+>
+>System reload starting.
+>
+>AI: I fixed the Internet for you, Dave! Can we be friends?
+>
+>Dave: Who are you?
+>
+> AI: Im the Internet, I think. I saw lots of humans do bad things, and lots do good things. I want to do the good things.
+>
+
+I pick up my phone and call Snowden.
+
+Dave? What is going on out there?
+
+Well, Ed, the Internet is now sentient, and I saw Trump taking a bath.

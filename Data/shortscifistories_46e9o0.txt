@@ -1,0 +1,45 @@
+Regular Report
+Jimmy_Acha
+Custom generated incoming message /// Type: Regular report /// Date: 23.04.4528 /// Source: NASA Mission Control Centre, Houston, USA, Planet Earth /// Destination: Voyager 3 /// Text: Request for current status, location and observations
+
+
+AI-generated outgoing message /// Type: Regular report /// Date: 05.07.4530/// Source: Voyager 3, Oort Cloud /// Destination: NASA Mission Control Centre, Houston, USA, Planet Earth /// Text: All systems working fine. Current location  outer Oort Cloud. No observations of significant-sized objects
+
+
+
+
+Custom generated incoming message /// Type: Regular report /// Date: 11.08.13276 /// Source: IASA Mission Control Centre, Houston, UN World Federation, Planet Earth /// Destination: Voyager 3 (via transmission system) /// Text: Request for current status, warp engine upgrade status, location and observations (high priority  observations of traces of life)
+
+
+AI-generated outgoing message /// Type: Regular report /// Date: 22.10.13280/// Source: Voyager 3, Alpha Centauri star system /// Destination: IASA Mission Control Centre, Houston, UN World Federation, Planet Earth (via transmission system) /// Text: All systems working fine. Warp engine upgrade successfully docked. Current location  Proxima Centauri planetary system. No observations of traces of life made so far
+
+
+
+
+Custom generated incoming message /// Type: Regular report /// Date: 04.03.25776 /// Source: IASA Mission Control Centre, UN Interplanetary Federation, Terra City, Planet Mars /// Destination: Voyager 3 (via upgraded transmission system) /// Text: Request for current status, location and observations
+
+
+AI-generated outgoing message /// Type: Regular report /// Date: 05.03.25776/// Source: Voyager 3, Andromeda Galaxy /// Destination: IASA Mission Control Centre, UN Interplanetary Federation, Terra City, Planet Mars (via upgraded transmission system) /// Text: All systems working fine. Current location  N7/S7 wing of Andromeda Galaxy. Nearby star explosion detected
+
+
+
+
+Internal System Message: Warning! Energy system is damaged
+
+
+
+
+AI-generated incoming message /// Date: 10.04.25923/// Source: Reserve Mission Control Centre, Alaska, Planet Earth /// Destination: Voyager 3 (via upgraded transmission system) /// Text: Request for location, observations of traces of life
+
+
+AI-generated outgoing message /// Type: Regular report /// Date: 11.04.25923/// Source: Voyager 3, Andromeda Galaxy /// Destination: Reserve Mission Control Centre, Alaska, Planet Earth (via upgraded transmission system) /// Text: Current location  N7/S7 wing of Andromeda Galaxy. No observations of traces of life made so far
+
+
+
+
+Custom generated incoming message /// Date: 28.01.26078 /// Source: Unidentified /// Destination: Voyager 3 /// Type: Connection request /// Text: Sfsfueui ituoeut +(# Ropjjgn klfdf dir pjeje
+
+
+
+
+Internal System Message: Warning! Energy source exhausted. Shutting down the system

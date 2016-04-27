@@ -1,0 +1,88 @@
+(Mini-series) Apocalypsis [Part 6]
+frankz0509
+Hey guys! Posted late this time. My last installment didn't get as much activity as its predecessors, so I was wondering what the reason might be: is it bad writing, poor choice of story direction, or is the installment too long (bordering on the 1k limit) that it made you disinterested? Please drop me a critique on the thread or in PM!
+
+Previously: [[1](https://www.reddit.com/r/shortscifistories/comments/3vfkjh/miniseries_apocalypsis_part_1/)] [[2](https://www.reddit.com/r/shortscifistories/comments/3vj6bi/miniseries_apocalypsis_part_2/)] [[3](https://www.reddit.com/r/shortscifistories/comments/3vncy2/miniseries_apocalypsis_part_3/)] [[4](https://www.reddit.com/r/shortscifistories/comments/3vt6li/miniseries_apocalypsis_part_4/)] [[5](https://www.reddit.com/r/shortscifistories/comments/3vxtq3/miniseries_apocalypsis_part_5/)]
+
+---
+
+Part 6: The List
+---
+
+"All rise! Chief Arbitrator now in court!" the bailiff announced. The hall fell silent as a middle-aged woman in an ivory robe walked from a side door to an elevated podium at the front of the room.
+
+Anabelle Jabari is the head-elect of the United Global Arbitrary. As Chief Arbitrator, her role is to oversee all arbitration held by the council, preside over high court sessions, sign legalese, and make decisions. When the old-world governments were abolished, a new type of government took their place as the core of the UGA: the arbitrary. As the name implies, the executive branch of the traditional government was erased from the constitution and the judiciary took the helm. The Chief Arbitrator, who must have served as a court justice, is nominated and elected by the members of the high court -- itself composed of prefects specializing in three different branches: military, civil, and science.
+
+"Take your seats." Jabari banged her gavel as hushing and shuffling resounded in the hall. "High court session 483 officially begins. Clerk Guanzon, begin recording. Order of court: possible outbreak of a research-related infection. Civil, state your case."
+
+"Yes, your honor." The Civil Prefect, Abraham Brown stood up and fixed his tie. "Ahem. Intel from the Durani outpost reported retired soldiers injected with the serum from Project Achilles to have -- I quote -- risen from the dead. They are shown here escaping Hawk 6, jumping off into the buffer zone between the hot zone and the countryside. Currently, they're untracked." Brown pressed a button which displayed a recording from Bumvee 6's cameras on the court screen.
+
+"Risen from the dead?" Jabari furled her brows. "Do we have any technical expounding, or are we going to begin sticking to archaic vocabulary henceforth?"
+
+"Well, ahem." Brown shuffled through a stack of papers and pulled one out. "Let court identify this as exhibit A. A report from Level 9 Lab of Genesys Industries, a science-military contractor of the UGA, which developed the serum. I quote: 'Sample 55 is shown to have extraordinary regenerative capabilities on neural cells, and have been tested to momentarily reanimate clinically dead subjects, a list of which is attached below.' Your honor, allow me to read an excerpt from the list: 'a lab rat, 0.8 micrograms dosage, incubation -- 2 hours; a retired soldier, 2 micrograms, 3 hours.' This serum was approved by Science and was applied to batch Delta of the soldiers last week."
+
+"To my understanding, Prefect Brown, that report includes a clause that 50 hours after this supposed reanimation phase, the subjects are also shown to expire. Or is the report tampered with and crucial information withheld?"
+
+"This report does not include the reanimation phase, your honor, past the 50-hour mark!"
+
+"Objection, your honor, I believe that Civil is putting a baseless accusation of omission on Science!" Jackie Choi, the Science Prefect, stood up with her hand raised. She shot Brown a glare.
+
+"Sustained. Prefect Brown, be seated. Let Science give its testimony."
+
+"Thank you, your honor. Fact is, the second reanimation phase is unbeknownst to Science, and was therefore not part of the report and the subsequent request which put the serum into live test." Lee walked towards the podium.
+
+"Prefect Lee, are you admitting that this was a grave oversight on your end?"
+
+"On the contrary, your honor, I believe that the information about the second reanimation phase was withheld from the UGA by Genesys Industries. I hereby request Dr. Yasmine Waltzman, lead researcher of the Achilles Project, to take the stand."
+
+A court clerk ushered Yasmine to the witness stand. Her face betrays sleeplessness and horror, and her usual facade of optimism and energy left no trace.
+
+"State your name and involvement in the project, please." Lee asked Yasmine.
+
+"Uh, right. My name is... is Yasmine Waltzman. I'm the -- was the lead researcher on the Achilles Project, and I was part of the team that developed Sample 55, now referred to as the serum." Yasmine stammered.
+
+"Miss Waltzman, were you aware of this second reanimation?" Lee asked.
+
+"I was not, ma'am. The reason is we did not have enough time to cover all bases, and do more iterations of the lab-controlled test run." Yasmine fumbled with her fingers.
+
+"'Pressed for time', were you? Why is that?"
+
+"The... ahem. Our superiors at Genesys insisted that we put it into live testing immediately after they learned of the capabilities of Sample-- of the serum."
+
+"And you agreed? Were it not part of your discretion to object to any key decisions regarding possibly hazardous materials?"
+
+"I did, your honor. So we ran a few more tests and wrote a model to simulate the effects of the serum. It were inconclusive and deemed safe by Genesys."
+
+"Deemed safe? How so?"
+
+"The model did not predict a second reanimation phase. By all means, it was impossible. We don't even know if it's contagious, spreadable, or if it lasts long. All results pointed to a positive conclusion and so we exercised our scientific knowledge to approve it."
+
+"So you do admit that fault lies on your team?"
+
+"In a way, yes. But we have a contingency plan. I believe that--"
+
+"Thank you, Dr. Waltzman, that will be all." Lee turned her back on Yasmine.
+
+"Excuse me, I'm not done. I'm saying that I--"
+
+"That will be all, doctor." Lee insisted.
+
+"We have a plan to contain the infection!" Yasmine shouted.
+
+"Let her speak, Science. Go ahead, doctor." Jabari banged her gavel.
+
+"We can synthesize a chemical compound to disable the fungus -- the root ingredient of the serum. It should kill all living traces of the fungus, but not affect people who are clean."
+
+"How long will it take for you to synthesize this compound?"
+
+"A couple of months at least. But for safety, at least a year before we can mass-produce it."
+
+"Make it six months, doc. The world is counting on you."
+
+---
+
+So yeah, this installment was more dialogue-packed than usual, with a lot of courtroom references and some more world-building. I actually wrote more action for this one, too, but it doesn't fit the 1k mark. If you'd like, I can post a follow-up to this one (call it 6-b) if you guys find it interesting enough.
+
+UPDATE: I actually went ahead and did it. Here's the follow-up: 6-b. https://www.reddit.com/r/shortscifistories/comments/3wja3v/miniseries_apocalypsis_part_6/cxxdjqo 
+
+Thanks to /u/Deadbreeze for making me feel that the story is still worth reading!

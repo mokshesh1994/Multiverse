@@ -1,0 +1,65 @@
+The Old Sentience
+mterra
+The machine was acting odd, very odd.  And the dreams were odd too.  A flickering of light from a monitor would brighten the room periodically, a flash of green displayed a peculiar arrangement of distorted symbols, then it was gone.  This had been happening with increased frequency for the past day.  It had started with a few blue screens, a few crashes, it had somehow progressed to this.
+
+I dont understand how someone could have access to the hardware on this level commented the security tech it just doesnt make any sense.
+
+Wed had the whole security team in here, trying fruitlessly to figure out the issues wed been having.
+
+Even if they had root access, total control of the machines, it still doesnt explain how theyre able to cut power to the monitors, you need physical access to do this he insisted.
+
+The techs had been so confused with the situation, theyd resorted to measuring voltage supply to the computer screens, discovering an intermittent, yet complete disconnection.
+
+Its just one of the many things wed have a hard time explaining explained another tech.
+
+Wed been hacked.  So it seemed.  An investigation into the Singularity was obviously high on the list of targets for hackers.  Our investigation more so, due to the legal grey area of using human brain tissue in our simulations.  It was a whole new approach to the situation of creating a truly sentient AI.  Hacktivists would have a field day leaking the details of our ethically questionable methods.
+
+For four years wed been working on this project, four years of intense labour, excessive caffeine and poor sleep.  Wed seemingly made some kind of break through in the past week, when we finally started receiving consistent outputs from our primary testing unit.
+
+~ hello world
+
+Our first reply.  We assumed this was a joke, we had received a greetings from our test units before, but this one seemed a bit more self aware.  Most conversations petered out into garbled text not long after a reply or two.
+
+~ SUNNY CALIFORNIA!
+
+Though isolated from the world.  We would routinely feed the systems information on a daily basis, this was the basics of machine learning, building up a repository of knowledge worked in the same way it did with human babies, it made them more aware.  The machine seemed to have found the local weather information wed passed to it today.
+
+~ input: Can you tell us the date?
+
+
+~ xxxinfinite
+
+~ a starry sky
+
+~ 20/06/2028
+
+~ Can you tell us your location?
+
+~ California
+
+It seemed to be seeking information correctly.  Despite a couple of hiccups in output.  Testing continued to go well, the unit passed the first phase of testing during the night, we were all ecstatic with the results.  Though eventually more oddities become present in the machine outputs.
+
+~ older 
+
+~ the older stars
+
+~ 3320318203217340232213248320
+
+~ 3293012321043820348201239203
+
+~ 3432043920348320431232134829
+
+The test unit began to spit out a series of random digits, with an occasional word or phrase interspersed between the numbers.  These random bursts would last up to an hour, with the machine ignoring any input during these periods.  It would eventually settle and begin to acknowledge input again.  It was after one of these sessions that we interrogated it for answers about these events.
+
+~ input: Can you elaborate on these numerical outputs?
+
+~ input: Can you explain their function?
+
+
+~ geometry
+
+~ old geometry
+
+~ infinite geometry
+
+A bright green lit up the monitor, as an array of horribly distorted, and fascinatingly disturbing structures appeared on the screen.  Objects twisting in on themselves, objects which did not seem possible in the physical world.  The few of us who had seen them were left sickened to the pits of our stomachs, yet we had no idea why.  It was after this that the dreams began.
