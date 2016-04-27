@@ -6,5 +6,12 @@
         <div>
             <h1><a href="">MULTIVERSE</a></h1>
         </div>
+        {% for s in story %}
+        	<div>
+        		<h1><a href="">{{ s.title }}</a></h1>
+        		<h2>{{ s.author }}</h2>
+        	<div>
+    		
+		{% endfor %}
     </body>
 </html>
