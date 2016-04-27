@@ -1,15 +1,22 @@
+{% load staticfiles %}
 <html>
     <head>
-        <title>Multiverse Home</title>
+    	  	
+    	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="{% static 'css/multiverse.css' %}">
+		<link href="http://fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+		<title>Multiverse Home</title>
+        
     </head>
     <body>
-        <div>
+        <div class = "page-header">
             <h1><a href="">MULTIVERSE</a></h1>
         </div>
         {% for s in story %}
-        	<div>
-        		<h1><a href="">{{ s.title }}</a></h1>
-        		<h2>{{ s.author }}</h2>
+        	<div class = "story">
+        		<h2><a href="">{{ s.title }}</a></h2>
+        		<h3>{{ s.author }}</h3>
         	<div>
     		
 		{% endfor %}
