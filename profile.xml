@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/header_cover_image"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dip"
+            android:layout_height="300dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/profile_background"/>
+
+        <ImageButton
+            android:id="@+id/user_profile_photo"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_below="@id/header_cover_image"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-250dp"
+            android:background="@drawable/profile_image"
+            android:elevation="5dp"
+            android:padding="20dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/profilepic1" />
+        <TextView
+            android:id="@+id/user_name_profile"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/header_cover_image"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-100dp"
+            android:background="@color/white"
+            android:text="User Name"
+            android:textSize="24dp"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/user_email_profile"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/user_name_profile"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:layout_centerHorizontal="true"
+            android:text="User Email"
+            android:textSize="24dp"
+            android:gravity="center" />
+        <ImageView
+            android:id="@+id/edit_userName"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_toRightOf="@+id/user_name_profile"
+            android:layout_marginTop="225dp"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/edit_icon1" />
+        <ImageView
+            android:id="@+id/edit_userEmail"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_toRightOf="@+id/user_name_profile"
+            android:layout_marginTop="275dp"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/edit_icon1" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@+id/header_cover_image"
+            android:layout_marginTop="40dp">
+
+            <Button
+                android:id="@+id/post_profile_button"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="70dp"
+                android:background="@color/colorPrimary"
+                android:text="VIEW POST ACTIVITY"
+                android:textColor="@color/white"
+                android:textSize="16dp"/>
+            <Button
+                android:id="@+id/meal_profile_button"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="70dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/colorPrimary"
+                android:text="VIEW MEAL ACTIVITY"
+                android:textColor="@color/white"
+                android:textSize="16dp"/>
+            <Button
+                android:id="@+id/recipe_profile_button"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="70dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/colorPrimary"
+                android:text="VIEW RECIPE ACTIVITY"
+                android:textColor="@color/white"
+                android:textSize="16dp"/>
+
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</ScrollView>
