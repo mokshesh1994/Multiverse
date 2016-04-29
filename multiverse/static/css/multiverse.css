@@ -11,10 +11,41 @@
 
 }
 
+.login-signup h4{
+    padding: 0px 0px 0px 575px;   
+}
+
+.username-box{
+    margin: 0px auto;
+    width: 600px;
+    height: 50px;
+    padding-left: 420px;
+}
+.container-0{
+    vertical-align: middle;
+    white-space: nowrap;
+    position: relative;
+}
+.container-1 .icon{
+  
+  color: #fff;
+}
+.password-box{
+    margin: 0px auto;
+    width: 600px;
+    height: 50px;
+    padding-left: 420px; 
+}
+.login-button{
+    padding-left: 570px;
+    
+}
+
+
 .box{
     
-    margin: 50px auto;
-    width: 400px;
+    margin: 40px auto;
+    width: 600px;
     height: 50px;
 }
 
@@ -26,7 +57,7 @@
 }
 
 .container-1 input#search{
-  width: 300px;
+  width: 400px;
   height: 50px;
   background: #02182C;
   border: none;
@@ -83,7 +114,7 @@ a.navigation{
 
 .genre-links h2{
     font-size: 24pt;
-    padding: 0px 0px 10px 60px;
+    padding: 0px 0px 0px 60px;
 }
 
 a.navigation-genre{
