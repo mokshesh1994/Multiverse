@@ -1,25 +1,34 @@
-from __future__ import unicode_literals
+﻿from django.db import models
 from django.utils import timezone
-from django.db import models
-
-class story_document(models.Model):
-
-	title = models.CharField(max_length=200)
-	author = models.CharField(max_length=50)
-	'''
-	tags = models.CharField(max_length=50)
-	upvotes = models.IntegerField(default = 0)
-	sub_id = models.CharField(max_length = 50)
-	domain = models.CharField(max_length = 50)
-	sub_reddit = models.CharField(max_length = 50)
-	archived = models.BooleanField(default = True)
-	over_18 = models.BooleanField(default=False)
-	file_path = models.CharField(max_length=100)
-	'''
-	def publish(self):
-		self.title = ''
-		self.author = ''
 
 
+class Story(models.Model):
+    title = models.CharField(max_length=200)
+    author = models.CharField(max_length=100)
+    genre = models.CharField(max_length=30)
+    upvotes = models.PositiveIntegerField()
+    likes = models.PositiveIntegerField()
+    domain = models.CharField(max_length=100)
+    domainID = models.CharField(max_length =100)
+    nsfw = models.BooleanField()
+    archived = models.BooleanField()
+    tags = models.CharField(max_length=100, blank=True)
+    published_date = models.DateTimeField(blank=True, null=True)
+#Reads
+#Emotion Vector
+    text = models.TextField()
 
-# Create your models here.
+    #def publish(self):
+    #    self.published_date = timezone.now()
+    #    self.save()
+    def snippit(self):
+        return self.text[0:250]+'...'
+    
+    def __unicode__(self) :
+        return str(self.title)+';;'+str(self.genre)+';;'+str(self.author)
+
+class Sims(models.Model):
+    text = models.TextField()
+
+    def __unicode__(self):
+        return str(self.text)
