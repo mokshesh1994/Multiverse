@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	{% load staticfiles %} 	
+    	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" type = "text/css"/>
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="{% static 'css/about.css' %}">
+		<link href="http://fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+		<title>Multiverse About</title>
+        <style type="text/css">
+            html,
+            body {
+                height:100%
+            }
+        </style>
+        
+    </head>
+
+    <body class="body" style="background-color:#f6f6f6">
+        <div class = "title">
+            
+            <h3><a class = "navigation" href = 'http://127.0.0.1:8000'>Home</a></h3>
+            <h3><a class = "navigation" href = 'http://127.0.0.1:8000/about'>About</a></h3>
+            <h3><a class = "navigation" href = 'http://127.0.0.1:8000/contact'>Contact us</a></h3>
+        </div>
+
+        <div class = 'content'>
+            <h2><b><u><center>CSCE 470 Project</center></u></b></h2>
+            <p> This is our final Project for the semester. This project is aimed for the users who are interested in reading short-stories, and providing them an efficient tool to find the stories they like the most based on the genre.This is specifically for users who want to read short stories in their free time, but cannot find time to go and purchase a book to do so. This application will help them find them something they like to read and understand about.</p>
+            <img src="{% static "sci-fi.jpg" %}" alt="sci-fi" style="width:304px;height:228px;">
+            <img src="{% static "humor.jpg" %}" alt="humor" style="width:304px;height:228px;">
+            <img src="{% static "Horror.jpg" %}" alt="horror" style="width:304px;height:228px;">
+            <img src="{% static "suspense.jpg" %}" alt="suspense" style="width:304px;height:228px;">
+
+
+        </div>
+
+    </body>
+</html>

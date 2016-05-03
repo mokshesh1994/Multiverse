@@ -16,6 +16,10 @@ urlpatterns = [
     url(r'^speculative_fiction$', views.speculative_fiction, name='speculative_fiction'),
     url(r'^thriller$', views.Thriller, name='thriller'),
     url(r'^urban$', views.Urban, name='urban'),
-    url(r'^non_fiction$', views.non_fiction, name='non_fiction')
+    url(r'^non_fiction$', views.non_fiction, name='non_fiction'),
+    url(r'^about$', views.about_page, name='about'),
+    url(r'^contact$', views.contact_page, name='contact')
+    
+
 
 ]

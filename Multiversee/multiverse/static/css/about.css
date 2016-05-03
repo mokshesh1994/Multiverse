@@ -1,0 +1,23 @@
+.title {
+    background-color: #02182C;
+    margin-top: 20px;
+    padding: 40px 0px 0px 400px;
+    height: 100px;
+}
+
+.title h3{
+    display: inline;
+    font-size: 14pt;
+    padding: 50px 50px 50px 50px;
+
+}
+
+.content p{
+	font-size:14pt;
+	padding-left: 40px;
+}
+
+.content img{
+	display: inline;
+	padding-left: 40px;
+}

@@ -19,6 +19,12 @@ def story_list(request):
     stories = Story.objects.filter(genre='science fiction')
     return render(request, 'multiverse/home.html', {'stories': stories[:25]})
 
+def about_page(request):
+    return render(request, 'multiverse/about.html',{})
+
+def contact_page(request):
+    return render(request, 'multiverse/contact.html',{})
+
 #def similarity(request):
 #    global d2v_model
 #    sim = d2v_model.most_similar('good')
@@ -37,27 +43,27 @@ def Horror(request):
     return render(request, 'multiverse/horror.html', {'stories': stories[:30]})
 
 def Humor(request):
-    stories = Story.objects.filter(genre="humor")
+    stories = Story.objects.filter(genre="misc fiction")
     return render(request, 'multiverse/humor.html', {'stories': stories[:30]})
 
 def mystery_suspence(request):
-    stories = Story.objects.filter(genre="horror")
+    stories = Story.objects.filter(genre="thriller")
     return render(request, 'multiverse/mystery_suspence.html', {'stories': stories[:30]})
 
 def action_adventure(request):
-    stories = Story.objects.filter(genre="humor")
+    stories = Story.objects.filter(genre="fantasy")
     return render(request, 'multiverse/action_adventure.html', {'stories': stories[:30]})
 
 def historical_fiction(request):
-    stories = Story.objects.filter(genre="horror")
+    stories = Story.objects.filter(genre="historical fiction")
     return render(request, 'multiverse/historical_fiction.html', {'stories': stories[:30]})
 
 def non_fiction(request):
-    stories = Story.objects.filter(genre="horror")
+    stories = Story.objects.filter(genre="non fiction")
     return render(request, 'multiverse/non_fiction.html', {'stories': stories[:30]})
 
 def realistic_fiction(request):
-    stories = Story.objects.filter(genre="horror")
+    stories = Story.objects.filter(genre="realistic fiction")
     return render(request, 'multiverse/realistic_fiction.html', {'stories': stories[:30]})
 
 def Romance(request):
@@ -65,7 +71,7 @@ def Romance(request):
     return render(request, 'multiverse/romance.html', {'stories': stories[:30]})
 
 def speculative_fiction(request):
-    stories = Story.objects.filter(genre="horror")
+    stories = Story.objects.filter(genre="speculative fiction")
     return render(request, 'multiverse/speculative_fiction.html', {'stories': stories[:30]})
 
 def Thriller(request):
@@ -73,7 +79,7 @@ def Thriller(request):
     return render(request, 'multiverse/thriller.html', {'stories': stories[:30]})
 
 def Urban(request):
-    stories = Story.objects.filter(genre="horror")
+    stories = Story.objects.filter(genre="fantasy")
     return render(request, 'multiverse/urban.html', {'stories': stories[:30]})
 
 def update_db_from_file(request):
