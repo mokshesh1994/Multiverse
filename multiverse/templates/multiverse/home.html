@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+d<!DOCTYPE html>
 <html>
     <head>
     	{% load staticfiles %} 	
@@ -72,6 +72,15 @@
                                 <input type="search" id="search" placeholder="Search Stories Here..." />
                             </div>
                         </div>
+                        <div class="content container">
+                            {% for s in story %}
+                                <div class = "story">
+                                    <h2><a href="">{{ s.title }}</a></h2>
+                                    <h3>{{ s.author }}</h3>
+                                </div>
+                            {% endfor %}
+                        </div>        
+
                         
                     </div>
                 </div>

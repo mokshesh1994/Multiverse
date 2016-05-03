@@ -20,6 +20,9 @@ class story_document(models.Model):
 		self.title = ''
 		self.author = ''
 
+	#def snippet(self):
+
+
 
 
 # Create your models here.

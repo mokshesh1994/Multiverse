@@ -1,0 +1,5240 @@
+She Lay There [MF]
+LegacyofAwesome
+['[MF]'] misc fiction
+2
+4dc11p
+self.shortstories
+shortstories
+False
+False
+
+[SF] It Was More than a Tornado Drill
+thatlogantaaffe
+['[SF]'] science fiction
+2
+4d8k6x
+self.shortstories
+shortstories
+False
+False
+
+[TH?] Something woke us up
+realuberpie
+['[TH'] thriller
+5
+4d7m5v
+self.shortstories
+shortstories
+False
+False
+
+[MS] Broken Strings The Fiddler's Explaining A Short Story (I hope you like it)
+AimeMaker
+['[MS]'] mystery & suspense
+2
+4d4vm2
+self.shortstories
+shortstories
+False
+False
+
+[HR] [TH] The Walker
+Iwrote_athing
+['[HR]', '[TH]'] horror
+0
+4cucek
+self.shortstories
+shortstories
+False
+False
+
+[NF] She. Revised.
+paolobaltazar13
+['[NF]'] non-fiction
+3
+4ctyaj
+self.shortstories
+shortstories
+False
+False
+
+[RF] Through the Window
+peanutkid
+['[RF]'] realistic fiction
+2
+4ctsoj
+self.shortstories
+shortstories
+False
+False
+
+[SP] Wish the Wind Didn't Blow So Much
+sirhappynuggets
+['[SP]'] speculative fiction
+3
+4cti3j
+self.shortstories
+shortstories
+False
+False
+
+[MF] The worst kind of spirit (Some readers may find upsetting)
+ItsyouNOme
+['[MF]'] misc fiction
+1
+4ctd4p
+self.shortstories
+shortstories
+False
+False
+
+[FN] Dane Korutz
+BaskervilleHound182
+['[FN]'] fantasy
+1
+4csm1q
+self.shortstories
+shortstories
+False
+False
+
+[RF] Two Wars
+andrewtater
+['[RF]'] realistic fiction
+1
+4cqyjc
+self.shortstories
+shortstories
+False
+False
+
+[SP] The true story of Beethoven
+Tschampion
+['[SP]'] speculative fiction
+3
+4cplrd
+self.shortstories
+shortstories
+False
+False
+
+[FN] Meeting the Four Horsemen
+srirachabound
+['[FN]'] fantasy
+2
+4cno7q
+self.shortstories
+shortstories
+False
+False
+
+[HR] Humanity's Undoing
+cardinalgrad03
+['[HR]'] horror
+2
+4cmyxl
+self.shortstories
+shortstories
+False
+False
+
+[MS] Blaze
+cardinalgrad03
+['[MS]'] mystery & suspense
+2
+4cmpc2
+self.shortstories
+shortstories
+False
+False
+
+Another Day [SF]
+FictionalSlang
+['[SF]'] science fiction
+1
+4clug3
+self.shortstories
+shortstories
+False
+False
+
+[SF] Fart Jacobson, the strong-man's chopstick, awoke rather abruptly to the loud pitter-patter of jet fuel dropping incessantly on his tin chin.
+US_Space_Force
+['[SF]'] science fiction
+0
+4clrwh
+self.shortstories
+shortstories
+False
+False
+
+[SP] An offer you can't refuse
+ph_00
+['[SP]'] speculative fiction
+2
+4ckfe1
+self.shortstories
+shortstories
+False
+False
+
+[AA] Betrayed - Was assigned in HS to write a short story. Hate reading books and not sure if it's actually good, but it got 100/100!
+PowerLemons
+['[AA]'] action & adventure
+3
+4cisll
+self.shortstories
+shortstories
+False
+False
+
+[SP] Two Part Tales presents, "The Sunken City of Cirrus, Part 2"
+TwoPartTales
+['[SP]'] speculative fiction
+1
+4cikgz
+self.shortstories
+shortstories
+False
+False
+
+[MF] Hazy
+aranzeke
+['[MF]'] misc fiction
+3
+4ch66f
+self.shortstories
+shortstories
+False
+False
+
+[HR] My Mourning
+Hylian_Soldier
+['[HR]'] horror
+1
+4cfg3c
+self.shortstories
+shortstories
+False
+False
+
+[SF]Minds Forward
+GelsonBlaze
+['[SF]'] science fiction
+3
+4ceyfg
+self.shortstories
+shortstories
+False
+False
+
+[MF] Monday or Tuesday
+DomenicoChavez
+['[MF]'] misc fiction
+2
+4cevw1
+self.shortstories
+shortstories
+False
+False
+
+(RF)I'm home
+55w6e8
+[] realistic fiction
+3
+4cdewb
+self.shortstories
+shortstories
+False
+False
+
+[NF] She.
+paolobaltazar13
+['[NF]'] non-fiction
+4
+4cd3p7
+self.shortstories
+shortstories
+False
+False
+
+[SP] A Nightly Walk
+Hylian_Soldier
+['[SP]'] speculative fiction
+8
+4cbx8p
+self.shortstories
+shortstories
+False
+True
+
+[MF] This Page is Blank (Feedback's please!)
+AwesomeKuriboh
+['[MF]'] misc fiction
+4
+4c90td
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Winter Grip on a Furry Friend
+ItsyouNOme
+['[RF]'] realistic fiction
+2
+4c593c
+self.shortstories
+shortstories
+False
+False
+
+[SF] Flickering Lights
+Jackie_13
+['[SF]'] science fiction
+7
+4c3ozh
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Life of Luna Apollo
+American_Canadian
+['[SF]'] science fiction
+2
+4c2yr6
+self.shortstories
+shortstories
+False
+False
+
+[SF] A Princess of Titan Part 1
+apanderson89
+['[SF]'] science fiction
+1
+4c0q6w
+self.shortstories
+shortstories
+False
+False
+
+[TH] Shoes
+Starkiller60
+['[TH]'] thriller
+0
+4c0mau
+self.shortstories
+shortstories
+False
+False
+
+[MF] Modern Spaghetti Western. Hinted SF
+asdfwerg1234
+['[MF]'] science fiction
+2
+4c0fha
+self.shortstories
+shortstories
+False
+False
+
+[MS] Sunday is my favourite day...
+Invisiblecrayon
+['[MS]'] mystery & suspense
+5
+4bxftt
+self.shortstories
+shortstories
+False
+False
+
+[SF] Woke
+Gallifreyggle
+['[SF]'] science fiction
+6
+4bx5gz
+self.shortstories
+shortstories
+False
+False
+
+[RF] I never saw this coming
+justamedstudentt
+['[RF]'] realistic fiction
+3
+4bvf64
+self.shortstories
+shortstories
+False
+False
+
+[MF]Paradise-Home
+Omnaia
+['[MF]'] misc fiction
+2
+4bvccd
+self.shortstories
+shortstories
+False
+False
+
+[RF] a tale of trying
+noly101
+['[RF]'] realistic fiction
+2
+4bv3ja
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Assignment - Story inspired by Blade Runner, Armello, and Zootopia
+Varylnard
+['[SF]'] science fiction
+4
+4btjm8
+self.shortstories
+shortstories
+False
+False
+
+[NF] A snippet of my experience in a Psychiatric hospital
+Jessicaglitter88
+['[NF]'] non-fiction
+5
+4brzyg
+self.shortstories
+shortstories
+False
+False
+
+Silent Escape [SF]
+Gordoxgrey
+['[SF]'] science fiction
+4
+4brz5m
+self.shortstories
+shortstories
+False
+False
+
+All You Have to Do [MF]
+Al_Infierno
+['[MF]'] misc fiction
+8
+4bqgsv
+self.shortstories
+shortstories
+False
+False
+
+Day 1 [SP]
+millerlepree
+['[SP]'] speculative fiction
+3
+4bpzj0
+self.shortstories
+shortstories
+False
+False
+
+[NF] Dads are a different type of parent.
+mbevks
+['[NF]'] non-fiction
+2
+4bplqb
+self.shortstories
+shortstories
+False
+False
+
+[MS] The 333
+C-82
+['[MS]'] mystery & suspense
+1
+4bpc5f
+self.shortstories
+shortstories
+False
+True
+
+[TH] Blink.
+cocopops78
+['[TH]'] thriller
+6
+4bo6k7
+self.shortstories
+shortstories
+False
+False
+
+[MF] I brought her a nearly dead bird.
+cocopops78
+['[MF]'] misc fiction
+5
+4bo2ck
+self.shortstories
+shortstories
+False
+False
+
+[NF] What Not To Do In Vietnam
+Andyrck
+['[NF]'] non-fiction
+2
+4bnltf
+self.shortstories
+shortstories
+False
+False
+
+[SF] Not Quite Dementia. The bit before the last bit.
+GreyGoff
+['[SF]'] science fiction
+3
+4blxbu
+self.shortstories
+shortstories
+False
+False
+
+[MF] A Life Worth Living
+qotsa9652
+['[MF]'] misc fiction
+1
+4biwvc
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Sunken City of Cirrus, Part 1
+TwoPartTales
+['[SP]'] speculative fiction
+2
+4bhgr6
+self.shortstories
+shortstories
+False
+False
+
+Venus in Furs [RF]
+beardofrain
+['[RF]'] realistic fiction
+3
+4bg36j
+self.shortstories
+shortstories
+False
+False
+
+A New Dream. [MF]
+juggilinjnuggala
+['[MF]'] misc fiction
+2
+4bejkk
+self.shortstories
+shortstories
+False
+False
+
+[MS] Where the curiosity leads
+Merxing
+['[MS]'] mystery & suspense
+3
+4bdy5p
+self.shortstories
+shortstories
+False
+False
+
+[RF] 2034
+WeEatBabies
+['[RF]'] realistic fiction
+2
+4bdsqt
+self.shortstories
+shortstories
+False
+False
+
+[HR] The Baker Family Reunion
+minnboy
+['[HR]'] horror
+2
+4bd15f
+self.shortstories
+shortstories
+False
+False
+
+[MS] And with the flip of a switch...
+jtreynolds
+['[MS]'] mystery & suspense
+3
+4baz92
+self.shortstories
+shortstories
+False
+False
+
+[NF] Who doesnt like a game?
+justamedstudentt
+['[NF]'] non-fiction
+2
+4bayml
+self.shortstories
+shortstories
+False
+False
+
+[RF] Defeat
+idontknowwhyman
+['[RF]'] realistic fiction
+1
+4barov
+self.shortstories
+shortstories
+False
+False
+
+[SP] Creature
+Merxing
+['[SP]'] speculative fiction
+1
+4b97oy
+self.shortstories
+shortstories
+False
+False
+
+[RO] For James.
+Foldingstarsx
+['[RO]'] romance
+2
+4b85rf
+self.shortstories
+shortstories
+False
+True
+
+[SF] "No, I Am GLYP/h"  A love story
+smrvl
+['[SF]'] science fiction
+5
+4b7tqa
+self.shortstories
+shortstories
+False
+False
+
+[SF] Another Day
+FictionalSlang
+['[SF]'] science fiction
+2
+4b79ab
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Evil Empire
+zoob117
+['[RF]'] realistic fiction
+3
+4b6nhw
+self.shortstories
+shortstories
+False
+False
+
+[HR] New To Town
+JoeDLFowler
+['[HR]'] horror
+6
+4b5n2h
+self.shortstories
+shortstories
+False
+False
+
+[RF] Day Two: Mulligan
+Alcoholic_Aardvark
+['[RF]'] realistic fiction
+7
+4b4a0k
+self.shortstories
+shortstories
+False
+False
+
+[RO] Sentimental
+callingraven
+['[RO]'] romance
+4
+4b1xv3
+self.shortstories
+shortstories
+False
+False
+
+[SF] Not Quite Dementia- Next bit.
+GreyGoff
+['[SF]'] science fiction
+5
+4b0zia
+self.shortstories
+shortstories
+False
+False
+
+[RO] She's New
+LovingLifeless9
+['[RO]'] romance
+6
+4b0tfd
+self.shortstories
+shortstories
+False
+False
+
+[FN] Universe creation story I've been working on for a lore. Want some feedback please.
+rgb101290
+['[FN]'] fantasy
+5
+4az9uq
+self.shortstories
+shortstories
+False
+False
+
+[SF] Not Quite Dementia
+GreyGoff
+['[SF]'] science fiction
+5
+4axepz
+self.shortstories
+shortstories
+False
+False
+
+[TH][HR] In Case You Were Wondering
+Big_Yazza
+['[TH]', '[HR]'] horror
+3
+4awly6
+self.shortstories
+shortstories
+False
+False
+
+Breathless (TH)
+JLReaper
+[] thriller
+2
+4awbhi
+self.shortstories
+shortstories
+False
+False
+
+[RF] Day One: First Impressions.
+Alcoholic_Aardvark
+['[RF]'] realistic fiction
+7
+4avo5j
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Alien Downstairs 2
+edward5127
+['[RF]'] realistic fiction
+2
+4atbg0
+self.shortstories
+shortstories
+False
+False
+
+[RF?] P.I [Short Film Idea]
+DylanJKershaw
+['[RF', '[Short'] realistic fiction
+2
+4aq15g
+self.shortstories
+shortstories
+False
+False
+
+[HR] Men of the moss
+callingraven
+['[HR]'] horror
+3
+4akoi0
+self.shortstories
+shortstories
+False
+False
+
+[HF] Windermere
+callingraven
+['[HF]'] historical fiction
+1
+4akmkh
+self.shortstories
+shortstories
+False
+False
+
+[RF] [Feedback welcome] Burying the Hatchet
+skyeandjojo
+['[RF]', '[Feedback'] realistic fiction
+7
+4ak702
+self.shortstories
+shortstories
+False
+False
+
+[HR] Awakening. F3EdB@ck Please!
+archatonic
+['[HR]'] horror
+2
+4ajyps
+self.shortstories
+shortstories
+False
+False
+
+[FN] The legend of Kanye West
+MurrayMan92
+['[FN]'] fantasy
+3
+4ahvhj
+self.shortstories
+shortstories
+False
+False
+
+[HR] Winifred and the Devil
+Doctor_Ham
+['[HR]'] horror
+4
+4ahkfl
+self.shortstories
+shortstories
+False
+False
+
+(RF) Conversation Piece
+FlamboyantDuck
+[] realistic fiction
+4
+4af3cp
+self.shortstories
+shortstories
+False
+False
+
+[RF] Missing Him
+Geneticallyflawed
+['[RF]'] realistic fiction
+2
+4af1pq
+self.shortstories
+shortstories
+False
+False
+
+[RF] When I was
+Merxing
+['[RF]'] realistic fiction
+6
+4acovk
+self.shortstories
+shortstories
+False
+False
+
+[RF]Co-authoring the bhagavad gita
+NotPhilippe
+['[RF]'] realistic fiction
+2
+4abzsb
+self.shortstories
+shortstories
+False
+False
+
+[RF] Visiting the caliphate
+NotPhilippe
+['[RF]'] realistic fiction
+2
+4abxwd
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Little Things
+Hamism
+['[RF]'] realistic fiction
+2
+4abtvp
+self.shortstories
+shortstories
+False
+False
+
+[MS] New Home
+poilsoup2
+['[MS]'] mystery & suspense
+1
+4abo32
+self.shortstories
+shortstories
+False
+False
+
+[RF] Through Rain and Shine
+CreativeWriting101
+['[RF]'] realistic fiction
+2
+4abgdg
+self.shortstories
+shortstories
+False
+False
+
+[MF] Despair
+BigLewandowski
+['[MF]'] misc fiction
+2
+4a9raq
+self.shortstories
+shortstories
+False
+False
+
+[MF] Safe from the Water
+JApresents
+['[MF]'] misc fiction
+3
+4a7jgg
+self.shortstories
+shortstories
+False
+False
+
+[MF] walks along the water
+deswriting
+['[MF]'] misc fiction
+2
+4a7fdq
+self.shortstories
+shortstories
+False
+False
+
+[SF] [HR] [TH] Judgement Day (Possible bad formatting, pasted from another app)
+Milkshaketurtle79
+['[SF]', '[HR]', '[TH]'] science fiction
+1
+4a6obh
+self.shortstories
+shortstories
+False
+False
+
+[MF] Other Worlds
+ShiveringShrew
+['[MF]'] misc fiction
+2
+4a61qq
+self.shortstories
+shortstories
+False
+False
+
+Devil's Advocate [MF]
+NoneApplicable
+['[MF]'] misc fiction
+3
+4a5wg5
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Gentle Seduction
+yuckygross
+['[SF]'] science fiction
+3
+4a4n6x
+self.shortstories
+shortstories
+False
+False
+
+[SP] Last Night On Earth
+apanderson89
+['[SP]'] speculative fiction
+2
+4a3834
+self.shortstories
+shortstories
+False
+False
+
+[SP]Savior
+shadow11001
+['[SP]'] speculative fiction
+2
+49zdev
+self.shortstories
+shortstories
+False
+False
+
+[MS] My Mystery & Suspence story Lunar
+queenofshearts
+['[MS]'] mystery & suspense
+1
+49yj2a
+self.shortstories
+shortstories
+False
+False
+
+[SF] Glitch
+2dom2
+['[SF]'] science fiction
+3
+49y5z0
+self.shortstories
+shortstories
+False
+False
+
+[MF] PLEASE don't leave me.
+HealthyishGuru
+['[MF]'] misc fiction
+3
+49xo1q
+self.shortstories
+shortstories
+False
+False
+
+[HF] Italian Immigrants during the early 20th Century - Love and Deceipt
+centerhall
+['[HF]'] historical fiction
+1
+49qt4m
+self.shortstories
+shortstories
+False
+False
+
+[HF] April, 1912
+plantsforhigher
+['[HF]'] historical fiction
+2
+49ox99
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Day I Went Numb
+brad_y
+['[RF]'] realistic fiction
+5
+49ok18
+self.shortstories
+shortstories
+False
+False
+
+[AA] Darkwood Forest
+layziegtp
+['[AA]'] action & adventure
+1
+49o9au
+self.shortstories
+shortstories
+False
+False
+
+[HR] House of Gjurd
+GwaanPwaan
+['[HR]'] horror
+1
+49noka
+self.shortstories
+shortstories
+False
+False
+
+[SF] SOUL TRAP OR HOW TECHNOLOGY FINALLY DROVE PEOPLE OUTSIDE
+tomi01
+['[SF]'] science fiction
+5
+49lbct
+self.shortstories
+shortstories
+False
+False
+
+(NF) Trainstation, make it end
+Lmanzie
+[] non-fiction
+3
+49k71n
+self.shortstories
+shortstories
+False
+False
+
+[SF] A chance meeting
+StaplerTwelve
+['[SF]'] science fiction
+8
+49k4qv
+self.shortstories
+shortstories
+False
+False
+
+[RF] Recycled Goods
+PonchoParty
+['[RF]'] realistic fiction
+6
+49j758
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Drop
+geordicalrissian
+['[SF]'] science fiction
+1
+49avvs
+self.shortstories
+shortstories
+False
+False
+
+[RF] Life
+jeffthedunker
+['[RF]'] realistic fiction
+3
+499sx4
+self.shortstories
+shortstories
+False
+False
+
+[AA] Into the woods
+Tschampion
+['[AA]'] action & adventure
+2
+496xff
+self.shortstories
+shortstories
+False
+False
+
+[MF] Saying Goodbye
+Schnerfle
+['[MF]'] misc fiction
+2
+493xgj
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Walk Along the Wall
+WMasters2016
+['[RF]'] realistic fiction
+1
+492srm
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Death of a King
+BOXHEADMAN
+['[FN]'] fantasy
+1
+491pfc
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Dark Side of the Moon
+TroyBarnes2016
+['[SF]'] science fiction
+2
+490f4u
+self.shortstories
+shortstories
+False
+False
+
+Perry [HF]
+mattz0r98
+['[HF]'] historical fiction
+2
+48z7am
+self.shortstories
+shortstories
+False
+False
+
+[MS] Try solving this murder.
+anangrypudge
+['[MS]'] mystery & suspense
+2
+48wx4k
+self.shortstories
+shortstories
+False
+False
+
+[RF] Descent
+vixeneye1
+['[RF]'] realistic fiction
+3
+48w8zk
+self.shortstories
+shortstories
+False
+False
+
+[TH] I Felt Alive...
+WhiteysBulger
+['[TH]'] thriller
+6
+48vi0x
+self.shortstories
+shortstories
+False
+False
+
+[SP] Capgras Syndrome
+herringblue
+['[SP]'] speculative fiction
+2
+48ur05
+self.shortstories
+shortstories
+False
+False
+
+[NF] Afraid, pt2
+MistOfGreen
+['[NF]'] non-fiction
+2
+48ubh2
+self.shortstories
+shortstories
+False
+False
+
+The Lost One [RO] [MS]
+OpTicDravec
+['[RO]', '[MS]'] romance
+2
+48tnka
+self.shortstories
+shortstories
+False
+False
+
+[HR] Daniel's Descent
+DanDaDestroyer
+['[HR]'] horror
+2
+48th74
+self.shortstories
+shortstories
+False
+False
+
+[MF] Chance.
+ohmsnonbeliever
+['[MF]'] misc fiction
+3
+48t3ns
+self.shortstories
+shortstories
+False
+False
+
+[RF] If I die, will you follow me?
+FlamboyantDuck
+['[RF]'] realistic fiction
+11
+48rugs
+self.shortstories
+shortstories
+False
+False
+
+[SF] Fifty-one Years
+poopopants
+['[SF]'] science fiction
+7
+48qepm
+self.shortstories
+shortstories
+False
+False
+
+[MF] Somewhere Only We Know
+Lexy83
+['[MF]'] misc fiction
+4
+48oohu
+self.shortstories
+shortstories
+False
+False
+
+[RO] i think i have fallen in love
+shnaxeln
+['[RO]'] romance
+1
+48o28s
+self.shortstories
+shortstories
+False
+False
+
+[MF] James Normand is Batman
+GerberGEEK
+['[MF]'] misc fiction
+4
+48nl4a
+self.shortstories
+shortstories
+False
+False
+
+[SF] 2026
+Ob101010
+['[SF]'] science fiction
+3
+48mur7
+self.shortstories
+shortstories
+False
+False
+
+(RF) weird dream i had
+awesomehuder
+[] realistic fiction
+3
+48mb9w
+self.shortstories
+shortstories
+False
+False
+
+That Girl in my class. [RO]
+brownround
+['[RO]'] romance
+1
+48l3to
+self.shortstories
+shortstories
+False
+False
+
+[RO] Short story for creative writing class
+buttrcupprincess
+['[RO]'] romance
+4
+48kpci
+self.shortstories
+shortstories
+False
+False
+
+[RF] Modern Day Retelling of Macbeth Acts 1 and 2
+Yonata_
+['[RF]'] realistic fiction
+2
+48idmg
+self.shortstories
+shortstories
+False
+False
+
+[MF] Based on a true story, first post
+ripmrkittypants
+['[MF]'] misc fiction
+1
+48hj5p
+self.shortstories
+shortstories
+False
+False
+
+[MF] HOWARD'S DEN
+elBARONROJO
+['[MF]'] misc fiction
+3
+48h6cn
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Mountain Men
+KingToasty
+['[SF]'] science fiction
+2
+48e5dh
+self.shortstories
+shortstories
+False
+False
+
+February 29. [NF]
+paolobaltazar13
+['[NF]'] non-fiction
+2
+488d2q
+self.shortstories
+shortstories
+False
+False
+
+[RF] Ohh Henrietta
+Megatron0693
+['[RF]'] realistic fiction
+3
+4880vo
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Angel of Death
+Garfieldthecat5
+['[FN]'] fantasy
+2
+4873u3
+self.shortstories
+shortstories
+False
+False
+
+[HM/RF] To Sleep: Perchance To Dream
+Croncodile
+['[HM'] realistic fiction
+3
+486k74
+self.shortstories
+shortstories
+False
+False
+
+[SF] My Sci-Fi ROBERT AND LILLY
+analogcomputers
+['[SF]'] science fiction
+2
+483uzo
+self.shortstories
+shortstories
+False
+False
+
+[MF] a short story I wrote tonight
+fatherhamlet
+['[MF]'] misc fiction
+2
+48163b
+self.shortstories
+shortstories
+False
+False
+
+[AA] Sunday Service
+TheWebfrog
+['[AA]'] action & adventure
+2
+480uxr
+self.shortstories
+shortstories
+False
+False
+
+[RF] Saturday Night
+jeffthedunker
+['[RF]'] realistic fiction
+4
+480a5o
+self.shortstories
+shortstories
+False
+False
+
+[RO] A Quarter Life Crisis Unfolding  Part 1
+None
+['[RO]'] romance
+3
+47zgr8
+self.shortstories
+shortstories
+False
+False
+
+[NF] The trip of what was pretty much circumstance and marijuana
+MrCentimeters
+['[NF]'] non-fiction
+2
+47y7di
+self.shortstories
+shortstories
+False
+False
+
+[RF] Like a Charm
+Alcoholic_Aardvark
+['[RF]'] realistic fiction
+2
+47w4sk
+self.shortstories
+shortstories
+False
+False
+
+[FN] Misery (Chapter One)
+Tschampion
+['[FN]'] fantasy
+3
+47nylu
+self.shortstories
+shortstories
+False
+False
+
+[RF] A Home on the Lake
+WhiskeyCleanse
+['[RF]'] realistic fiction
+2
+47nv8o
+self.shortstories
+shortstories
+False
+False
+
+[SF/FN] The Curtain
+astrogirlem
+['[SF'] science fiction
+3
+47mvq0
+self.shortstories
+shortstories
+False
+False
+
+[TH] The Demon Within Me
+ShrekTheOgher
+['[TH]'] thriller
+2
+47koj9
+self.shortstories
+shortstories
+False
+False
+
+[RF] - Creative Writing - William's Sparrow
+castorres
+['[RF]'] realistic fiction
+5
+47jnzx
+self.shortstories
+shortstories
+False
+False
+
+[SP] Thursday
+juggilinjnuggala
+['[SP]'] speculative fiction
+3
+47j84t
+self.shortstories
+shortstories
+False
+False
+
+[FN] Wandering Traveler-ongoing
+SkyThunderer
+['[FN]'] fantasy
+3
+47hh3m
+self.shortstories
+shortstories
+False
+False
+
+[SF] An Unprecedented Arrival
+phantom-16
+['[SF]'] science fiction
+7
+47fwoy
+self.shortstories
+shortstories
+False
+False
+
+[SP] Happiness Underground
+themoldencrustedmidi
+['[SP]'] speculative fiction
+1
+47elxn
+self.shortstories
+shortstories
+False
+False
+
+[RF] [MF] Regrets of not being a junky
+Tschampion
+['[RF]', '[MF]'] realistic fiction
+1
+47cmtt
+self.shortstories
+shortstories
+False
+False
+
+[MF]Paradise-Atesoja
+Omnaia
+['[MF]'] misc fiction
+1
+47cls8
+self.shortstories
+shortstories
+False
+False
+
+[HM] [MF] When you have no money
+Tschampion
+['[HM]', '[MF]'] misc fiction
+1
+47cg96
+self.shortstories
+shortstories
+False
+False
+
+[FN] Waking the Splintered God
+PSHoffman
+['[FN]'] fantasy
+10
+47at58
+self.shortstories
+shortstories
+False
+False
+
+Another Life [RF] [UR] [SF]
+Isaac-is-a-man
+['[RF]', '[UR]', '[SF]'] science fiction
+4
+474q4z
+self.shortstories
+shortstories
+False
+False
+
+[SF] Nels Cooper- The Last Days of Earth
+John_Ranger
+['[SF]'] science fiction
+4
+474jva
+self.shortstories
+shortstories
+False
+False
+
+[HM][SF]
+thestreetlife
+['[HM]', '[SF]'] science fiction
+4
+472dud
+self.shortstories
+shortstories
+False
+False
+
+[RO][RF] The First Time We Met
+None
+['[RO]', '[RF]'] realistic fiction
+3
+4727b6
+self.shortstories
+shortstories
+False
+False
+
+One more time [sf]
+manchuisu
+['[sf]'] science fiction
+3
+470rxu
+self.shortstories
+shortstories
+False
+False
+
+Say Goodnight [sf]
+manchuisu
+['[sf]'] science fiction
+2
+470uhh
+self.shortstories
+shortstories
+False
+False
+
+God[NF]
+paolobaltazar13
+['[NF]'] non-fiction
+3
+471qwq
+self.shortstories
+shortstories
+False
+False
+
+[UR] [NSFW] Alone in Space
+territorialpassings
+['[UR]', '[NSFW]'] urban
+13
+46xiv3
+self.shortstories
+shortstories
+False
+True
+
+[FN] The Prophecies of Elatia. Prologue: There was Hope
+ProxyShic
+['[FN]'] fantasy
+1
+46x5px
+self.shortstories
+shortstories
+False
+False
+
+[HR] My Evil Dream.
+spawnofbunnys
+['[HR]'] horror
+4
+46x50y
+self.shortstories
+shortstories
+False
+False
+
+[MF] Tom
+BonzaiLemon
+['[MF]'] misc fiction
+4
+46w8mm
+self.shortstories
+shortstories
+False
+False
+
+LUCINDA [NF]
+O-soylu
+['[NF]'] non-fiction
+4
+46tz2t
+self.shortstories
+shortstories
+False
+False
+
+ALICE [Shades of Youth] [NF]
+O-soylu
+['[Shades', '[NF]'] non-fiction
+1
+46spj9
+self.shortstories
+shortstories
+False
+False
+
+[RF] Beautiful Victoria
+jewishbisexual
+['[RF]'] realistic fiction
+2
+46rwg4
+self.shortstories
+shortstories
+False
+False
+
+[MF] The Misadventures of Scubacat
+Tencrazygears
+['[MF]'] misc fiction
+4
+46qhay
+self.shortstories
+shortstories
+False
+False
+
+[RF] [UR] Broken
+bschug
+['[RF]', '[UR]'] realistic fiction
+4
+46oaxo
+self.shortstories
+shortstories
+False
+False
+
+[MF] The Man and a Deer
+fingflopper
+['[MF]'] misc fiction
+6
+46jjgg
+self.shortstories
+shortstories
+False
+False
+
+[MF] O' Clown of Mine
+Belly318
+['[MF]'] misc fiction
+3
+46iq9c
+self.shortstories
+shortstories
+False
+False
+
+[RF] "Keep your ear to the ground"
+articunories
+['[RF]'] realistic fiction
+8
+46ili2
+self.shortstories
+shortstories
+False
+False
+
+[RF] "Change"
+articunories
+['[RF]'] realistic fiction
+3
+46h6gy
+self.shortstories
+shortstories
+False
+False
+
+[RF] "Sleepless"
+articunories
+['[RF]'] realistic fiction
+3
+46h1kw
+self.shortstories
+shortstories
+False
+False
+
+[RF] My (very) short story, "The Trail" - Please critique!
+Billygoat915
+['[RF]'] realistic fiction
+6
+46gk7p
+self.shortstories
+shortstories
+False
+False
+
+My first attempt at actually writing more than a sentence for a 'story'. I thought the title 'Restraint' could be fitting. [SF][AA]
+Maxicanyo
+['[SF]', '[AA]'] science fiction
+2
+46evhg
+self.shortstories
+shortstories
+False
+False
+
+[RF] Real quick rough draft of a short story. Memoir
+austbot
+['[RF]'] realistic fiction
+3
+46dkjb
+self.shortstories
+shortstories
+False
+False
+
+[MF]Paradise-Sjumakoi
+Omnaia
+['[MF]'] misc fiction
+2
+46dk03
+self.shortstories
+shortstories
+False
+False
+
+[HR] first shortstory. no title sorry
+Cammr
+['[HR]'] horror
+2
+4680bo
+self.shortstories
+shortstories
+False
+False
+
+[RF] "With Shut Eyes and a Comfortable Bed"
+Baconiguana
+['[RF]'] realistic fiction
+2
+45y3at
+self.shortstories
+shortstories
+False
+False
+
+[MF] Hypnagogic Radio
+JimJamz11
+['[MF]'] misc fiction
+3
+45va82
+self.shortstories
+shortstories
+False
+False
+
+[RF] "Coming to Terms With the Fact That I'm a Bastard"
+Eskelsar
+['[RF]'] realistic fiction
+6
+45v29w
+self.shortstories
+shortstories
+False
+False
+
+[NF] Rough Nights  A True story of my time on the streets
+xysyx_
+['[NF]'] non-fiction
+7
+45u17l
+self.shortstories
+shortstories
+False
+False
+
+[NF] Prostitution and art of servicing the low grade manipulator.
+Lisa_TK
+['[NF]'] non-fiction
+3
+45n7k4
+self.shortstories
+shortstories
+False
+False
+
+[FN] Apples & Pears
+lobstermaximum
+['[FN]'] fantasy
+5
+45jv6d
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Ball
+cleverusername86
+['[NF]'] non-fiction
+2
+45eyzl
+self.shortstories
+shortstories
+False
+False
+
+[NF] Neuropsychological
+turkeysquid
+['[NF]'] non-fiction
+0
+45dnwd
+self.shortstories
+shortstories
+False
+False
+
+[NF] As Time Is My Companion  by Brad Michael Moore
+keechi
+['[NF]'] non-fiction
+1
+45cfau
+self.shortstories
+shortstories
+False
+False
+
+[RO] A Modern Bottom (339)
+arborcide
+['[RO]'] romance
+1
+45ca8v
+self.shortstories
+shortstories
+False
+False
+
+[RF] After The End of Days Chapter 2: First Blood
+reallybadazz
+['[RF]'] realistic fiction
+1
+45bnsu
+self.shortstories
+shortstories
+False
+False
+
+[FN] A Troll's Life
+toefirefire
+['[FN]'] fantasy
+1
+45ae39
+self.shortstories
+shortstories
+False
+False
+
+[SF] Rough Day
+arrozal
+['[SF]'] science fiction
+2
+457jws
+self.shortstories
+shortstories
+False
+False
+
+[HR?] EDNOS - trigger warning
+IdleVen
+['[HR'] horror
+3
+4573s1
+self.shortstories
+shortstories
+False
+False
+
+[RF] [NSFW]Think I Might Have A Problem
+ACIDLIF3
+['[RF]', '[NSFW]'] realistic fiction
+3
+456yhv
+self.shortstories
+shortstories
+False
+True
+
+[RF] Superman does a Car Commercial
+Goosejuiceontheloose
+['[RF]'] realistic fiction
+5
+456q5t
+self.shortstories
+shortstories
+False
+False
+
+[HR] good short story
+JoslynDiane
+['[HR]'] horror
+2
+456o5j
+self.shortstories
+shortstories
+False
+False
+
+[NF] Afraid
+MistOfGreen
+['[NF]'] non-fiction
+8
+455a7x
+self.shortstories
+shortstories
+False
+False
+
+A short story by a friend [RO]
+Tigoric16
+['[RO]'] romance
+3
+454wx9
+self.shortstories
+shortstories
+False
+False
+
+[MS] Clirview, Maine
+JustinDes
+['[MS]'] mystery & suspense
+2
+454qdw
+self.shortstories
+shortstories
+False
+False
+
+[MF] In the dark, they came.
+iamtehfong
+['[MF]'] misc fiction
+1
+452xmk
+self.shortstories
+shortstories
+False
+False
+
+[MF] Sanctuary
+onetruemod
+['[MF]'] misc fiction
+1
+4523s4
+self.shortstories
+shortstories
+False
+False
+
+[TH] Like Father, Like Son
+BlackRaven101
+['[TH]'] thriller
+1
+4522uo
+self.shortstories
+shortstories
+False
+False
+
+[SF] [FN] (OC) The Daughter of Angel Fire
+turtl3rock
+['[SF]', '[FN]'] science fiction
+2
+451l1h
+self.shortstories
+shortstories
+False
+False
+
+[HR] The Dark Secrets of the Wicker Basket.
+RantFauxxel
+['[HR]'] horror
+4
+450tch
+self.shortstories
+shortstories
+False
+False
+
+(HR) Kid a Kidder
+Dallaswinston9
+[] horror
+6
+44zuxv
+self.shortstories
+shortstories
+False
+False
+
+[HR?] A Night at the Cabin - Evans first letter
+KiraAyashi
+['[HR'] horror
+3
+44y2qd
+self.shortstories
+shortstories
+False
+False
+
+[MF] The Red Balloon
+Chantwood
+['[MF]'] misc fiction
+3
+44xvjp
+self.shortstories
+shortstories
+False
+False
+
+[RF][MS] Hymn of the Lions {Part 2}
+DONT_LOOK_BEHIND_Y0U
+['[RF]', '[MS]'] realistic fiction
+2
+44vmw7
+self.shortstories
+shortstories
+False
+False
+
+[RF] Happiness as a fact. OC
+HulloFolks
+['[RF]'] realistic fiction
+3
+44vfzn
+self.shortstories
+shortstories
+False
+False
+
+[MF] Solitary Confinement
+radclive
+['[MF]'] misc fiction
+5
+44tqsu
+self.shortstories
+shortstories
+False
+False
+
+[HR] Old Man Creech
+PardonMyEnglish
+['[HR]'] horror
+2
+44nbcc
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Moving Library
+Hasselborf
+['[FN]'] fantasy
+1
+44kmo7
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Gatekeeper
+One_Man_Mariachi_Guy
+['[SP]'] speculative fiction
+3
+44k7j6
+self.shortstories
+shortstories
+False
+False
+
+[SF] XR-6ST (1439 words)
+ozurdin
+['[SF]'] science fiction
+2
+44ejc5
+self.shortstories
+shortstories
+False
+False
+
+[SF] - (Re)finding Earth - Part four - Reveal
+wheelchairmaster
+['[SF]'] science fiction
+2
+44cxxq
+self.shortstories
+shortstories
+False
+False
+
+[AA] One Step at a Time
+27153
+['[AA]'] action & adventure
+2
+44cg26
+self.shortstories
+shortstories
+False
+False
+
+[HR] Myrkr Manlkan
+TheJangoLegacy
+['[HR]'] horror
+1
+44bt5b
+self.shortstories
+shortstories
+False
+False
+
+[RF] JUNKY ROUTINE
+Cetkovic
+['[RF]'] realistic fiction
+0
+44ax4q
+self.shortstories
+shortstories
+False
+False
+
+[HR] In need of assistance.
+bigshaned
+['[HR]'] horror
+0
+44art6
+self.shortstories
+shortstories
+False
+False
+
+[SP] A Question
+pseudobuesq
+['[SP]'] speculative fiction
+1
+4493rj
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Assignment
+Behindsobereyes
+['[FN]'] fantasy
+0
+445dem
+self.shortstories
+shortstories
+False
+False
+
+[UR] Rainbows
+SequentiallySedated
+['[UR]'] urban
+1
+442poj
+self.shortstories
+shortstories
+False
+False
+
+[RF] Empty House
+CynicHappy
+['[RF]'] realistic fiction
+1
+442iq3
+self.shortstories
+shortstories
+False
+False
+
+[RF] McDonalds
+cal_the_kid
+['[RF]'] realistic fiction
+4
+441v8w
+self.shortstories
+shortstories
+False
+False
+
+[RO] I WISH WE WERE IN LOVE
+0hitsjustme
+['[RO]'] romance
+5
+440st8
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Gravity of the Grave
+radclive
+['[RF]'] realistic fiction
+4
+43wsfp
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Afterlife
+cal_the_kid
+['[SP]'] speculative fiction
+5
+43uu8f
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Travelers
+d33chmo
+['[SF]'] science fiction
+8
+43twhm
+self.shortstories
+shortstories
+False
+False
+
+(Sp) A Haunting
+aminitaverosa
+[] speculative fiction
+3
+43ri3z
+self.shortstories
+shortstories
+False
+False
+
+[MF] Mobile
+w3rdna96
+['[MF]'] misc fiction
+2
+43r7wv
+self.shortstories
+shortstories
+False
+False
+
+[MF] No Way Out
+MateusGranico
+['[MF]'] misc fiction
+2
+43qszr
+self.shortstories
+shortstories
+False
+False
+
+[SP] Darkness.
+fred1840
+['[SP]'] speculative fiction
+2
+43okem
+self.shortstories
+shortstories
+False
+False
+
+[TH] Mr. Darkly
+RelicWarrior
+['[TH]'] thriller
+1
+43n2nn
+self.shortstories
+shortstories
+False
+False
+
+[FN] spicy sophie - modern mage cult side story
+sirjohnofharrington
+['[FN]'] fantasy
+3
+43j33c
+self.shortstories
+shortstories
+False
+False
+
+[RF] The War
+FrankPatrik
+['[RF]'] realistic fiction
+1
+43ihvh
+self.shortstories
+shortstories
+False
+False
+
+[MF] Of Whores and Queens
+MK1412
+['[MF]'] misc fiction
+5
+43eiat
+self.shortstories
+shortstories
+False
+False
+
+[MF] My Birthday ( Working Title )
+None
+['[MF]'] misc fiction
+3
+43de0w
+self.shortstories
+shortstories
+False
+False
+
+[MF] My Faith
+SurfGuitarMan
+['[MF]'] misc fiction
+2
+43dcey
+self.shortstories
+shortstories
+False
+False
+
+[MF] How The Grinch Stole Orgies! by Quirbit
+None
+['[MF]'] misc fiction
+3
+43b2y4
+self.shortstories
+shortstories
+False
+False
+
+[RF] Reactions
+empirebuilder1
+['[RF]'] realistic fiction
+3
+43agoa
+self.shortstories
+shortstories
+False
+False
+
+[SF] Planet Nine
+Rekz160
+['[SF]'] science fiction
+2
+434tzk
+self.shortstories
+shortstories
+False
+False
+
+[FN] A moonless night.
+Gamergonedad
+['[FN]'] fantasy
+3
+434fft
+self.shortstories
+shortstories
+False
+False
+
+[FN] A thief's last resort.
+Gamergonedad
+['[FN]'] fantasy
+5
+434dh6
+self.shortstories
+shortstories
+False
+False
+
+[SF] The (revised) prologue of the novel I'm writing. Feedback would be greatly appreciated :)
+EthanCPP
+['[SF]'] science fiction
+2
+434b0r
+self.shortstories
+shortstories
+False
+False
+
+[SF] Destroying Gods - Part 5
+hearshotkid_33
+['[SF]'] science fiction
+5
+43482r
+self.shortstories
+shortstories
+False
+False
+
+[SF] Destroying Gods - Part 4
+hearshotkid_33
+['[SF]'] science fiction
+4
+4346bq
+self.shortstories
+shortstories
+False
+False
+
+[SF]Destroying Gods - Part 3
+hearshotkid_33
+['[SF]'] science fiction
+4
+4344ht
+self.shortstories
+shortstories
+False
+False
+
+[SF] Destroying Gods - Part 2
+hearshotkid_33
+['[SF]'] science fiction
+4
+4340ud
+self.shortstories
+shortstories
+False
+False
+
+[SF] Destroying Gods - Part 1
+hearshotkid_33
+['[SF]'] science fiction
+2
+433yqv
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Meeting
+enightmare
+['[FN]'] fantasy
+1
+4324el
+self.shortstories
+shortstories
+False
+False
+
+[HR] Fear
+JJANSSEN13
+['[HR]'] horror
+2
+431yu0
+self.shortstories
+shortstories
+False
+False
+
+[RF][MS] Hymn of the Lions {Part 1}
+DONT_LOOK_BEHIND_Y0U
+['[RF]', '[MS]'] realistic fiction
+1
+431ybi
+self.shortstories
+shortstories
+False
+False
+
+[NF] Paul: A Story of Wonder (Written for a quick English class MLA Assignment)
+Thoneasurus
+['[NF]'] non-fiction
+1
+431vhf
+self.shortstories
+shortstories
+False
+False
+
+[FN] Dreams of Depression
+ChicaIncognito
+['[FN]'] fantasy
+1
+431mer
+self.shortstories
+shortstories
+False
+False
+
+[RF] At the Stroke of Midnight (WARNING: this deals with some intense stuff, so if you're easily affected, maybe skip this.)
+radclive
+['[RF]'] realistic fiction
+2
+430lzl
+self.shortstories
+shortstories
+False
+False
+
+[RF] [RF] Modus Vivendi [tweet-length]
+marriedwithheartbrea
+['[RF]', '[RF]', '[tweet'] realistic fiction
+1
+42zy0b
+self.shortstories
+shortstories
+False
+False
+
+[SF] A prologue for the novel I am writing, any feedback would be greatly appreciated!
+EthanCPP
+['[SF]'] science fiction
+5
+42zp6v
+self.shortstories
+shortstories
+False
+False
+
+[RF] Madness, a book I am currently writing. Any feedback would be great!
+Twichy717
+['[RF]'] realistic fiction
+3
+42yo4t
+self.shortstories
+shortstories
+False
+False
+
+[RF] Tears from Heaven
+pulpeenswank
+['[RF]'] realistic fiction
+3
+42ycnh
+self.shortstories
+shortstories
+False
+False
+
+[MF] Why there?
+Drowningdutchman
+['[MF]'] misc fiction
+3
+42xdy3
+self.shortstories
+shortstories
+False
+False
+
+[RF] No-one. The introduction to a short story I'm writing for school. Feedback greatly appreciated.
+PsychicAdvantage
+['[RF]'] realistic fiction
+4
+42x3l2
+self.shortstories
+shortstories
+False
+False
+
+[FN] Alex Fuil'Mhar (WARNING: LOTS OF VIOLENCE, TONS OF SWEARING, SOME DRUGS, MINIMAL SEX, AND GENERAL EDGINESS)
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+2
+42woh0
+self.shortstories
+shortstories
+False
+False
+
+[SF]Unit Fades
+Xalazi
+['[SF]'] science fiction
+7
+42uyyc
+self.shortstories
+shortstories
+False
+False
+
+[SF] Overlap
+Jason_Lawton
+['[SF]'] science fiction
+2
+42uxyh
+self.shortstories
+shortstories
+False
+False
+
+[FN] Poppets and Potions
+Aking1998
+['[FN]'] fantasy
+3
+42uttx
+self.shortstories
+shortstories
+False
+False
+
+[SF] [HR] ATOX Resistant (originally posted /r/nosleep)
+lpanella
+['[SF]', '[HR]'] science fiction
+4
+42nfbz
+self.shortstories
+shortstories
+False
+False
+
+[MF]The Beach [First Post] [Opinions appreciated]
+EFspartan
+['[MF]', '[First', '[Opinions'] misc fiction
+8
+42muti
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Ruins
+AP246
+['[SF]'] science fiction
+2
+42msb6
+self.shortstories
+shortstories
+False
+False
+
+[SP] Universe Calling, (Ode To A Falling, Former, Serially-Demented, Star)
+jwfwrite
+['[SP]'] speculative fiction
+2
+42ly3y
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Man Who Was The World
+CaptainHeartless
+['[SF]'] science fiction
+3
+42lpmn
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Second Floor Window
+davis_rv
+['[NF]'] non-fiction
+2
+42iytg
+self.shortstories
+shortstories
+False
+False
+
+[MF] The Car Beside You
+davis_rv
+['[MF]'] misc fiction
+4
+42iooi
+self.shortstories
+shortstories
+False
+False
+
+[SF] "O.P.E.N" First Story Ever! opinions thanks!!
+SuperCubanJew
+['[SF]'] science fiction
+2
+42iapb
+self.shortstories
+shortstories
+False
+False
+
+[FN] Dream Guardians: A Never-Ending Battle (intro to my story I am working on)
+ItsyouNOme
+['[FN]'] fantasy
+1
+42htwt
+self.shortstories
+shortstories
+False
+False
+
+[RF] My companion
+butDogsThough
+['[RF]'] realistic fiction
+3
+42gozn
+self.shortstories
+shortstories
+False
+False
+
+[RF] Where is My Mind
+JustinHachey
+['[RF]'] realistic fiction
+1
+42f8m9
+self.shortstories
+shortstories
+False
+False
+
+[SF] First time posting. Let me know what you think!
+KingSchmitty
+['[SF]'] science fiction
+2
+42epy1
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Truth Hurts: A tribute to the Armed Forces and people struggling with PTSD
+radclive
+['[RF]'] realistic fiction
+2
+42d1c5
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Dam War (Story 1)- Niagara, Falls (Part 1)
+Second_Hand_Suit
+['[SP]'] speculative fiction
+1
+427iub
+self.shortstories
+shortstories
+False
+False
+
+[FN] Opinions please? First time writing in this setting.
+Audacity3371
+['[FN]'] fantasy
+3
+425yc6
+self.shortstories
+shortstories
+False
+False
+
+[SF] Lunar Base 422
+robclay
+['[SF]'] science fiction
+8
+423lvz
+self.shortstories
+shortstories
+False
+False
+
+[SF] [FN] The Age of Exile: Prologue to Death
+ThePariahComplex
+['[SF]', '[FN]'] science fiction
+2
+41xl89
+self.shortstories
+shortstories
+False
+False
+
+[SF] [HR] [FN] [MS] [HM] - Birth of a Hero Pt. 3
+barkology101
+['[SF]', '[HR]', '[FN]', '[MS]', '[HM]'] science fiction
+2
+41w1v9
+self.shortstories
+shortstories
+False
+False
+
+[SF] [HR] [FN] [MS] [HM] - Birth of a Hero Pt.2
+barkology101
+['[SF]', '[HR]', '[FN]', '[MS]', '[HM]'] science fiction
+3
+41w05s
+self.shortstories
+shortstories
+False
+False
+
+[SF] [HR] [FN] [MS] [HM]- Birth of Hero Pt. 1
+barkology101
+['[SF]', '[HR]', '[FN]', '[MS]', '[HM]'] science fiction
+2
+41vybb
+self.shortstories
+shortstories
+False
+False
+
+[RO] Broken
+lawdymissclawdys
+['[RO]'] romance
+2
+41vfff
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Inquisitor: Chapter Six
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+1
+41tul6
+self.shortstories
+shortstories
+False
+False
+
+[RO] Summer
+Not_A_Fiction_Writer
+['[RO]'] romance
+5
+41t985
+self.shortstories
+shortstories
+False
+False
+
+[HR] Crash
+Not_A_Fiction_Writer
+['[HR]'] horror
+2
+41t82q
+self.shortstories
+shortstories
+False
+False
+
+[RF] Reincarnation Inc.
+Schleppify
+['[RF]'] realistic fiction
+2
+41t7gm
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Inquisitor: Chapter Five
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+2
+41suaw
+self.shortstories
+shortstories
+False
+False
+
+[SF] Contact!
+Cysylltu
+['[SF]'] science fiction
+7
+41pgrm
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Story of a Beast (working title)
+Nope__Nope__Nope
+['[FN]'] fantasy
+6
+41nbz2
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Adventures of Joe Sullivan, part 1
+leddy_yount
+['[SP]'] speculative fiction
+1
+41lmuj
+self.shortstories
+shortstories
+False
+False
+
+[FN] (fisction) THE MAD MAN'S VASE by :Grimval
+Grimval
+['[FN]'] fantasy
+1
+41is0g
+self.shortstories
+shortstories
+False
+False
+
+[MS] Wake
+DeBloyce
+['[MS]'] mystery & suspense
+3
+41ij5o
+self.shortstories
+shortstories
+False
+False
+
+[RF] Crazy Trip
+ACIDLIF3
+['[RF]'] realistic fiction
+2
+41gwe3
+self.shortstories
+shortstories
+False
+False
+
+[HR] Tunnel Vision
+Paaaaamolaaaaa
+['[HR]'] horror
+3
+41fxfs
+self.shortstories
+shortstories
+False
+False
+
+[RF] A real estate deal
+toefirefire
+['[RF]'] realistic fiction
+4
+41fmc9
+self.shortstories
+shortstories
+False
+False
+
+[NF/UR] Morning of a Superfluous Man: An Internal Dialogue
+Piss_Poor_Writer
+['[NF'] non-fiction
+1
+41ffl8
+self.shortstories
+shortstories
+False
+False
+
+[RF] The story of an ordinary American who got radicalized by Islam (with unique insight into some of the radicalization techniques of ISIS)
+rmei
+['[RF]'] realistic fiction
+1
+41f7ll
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Bubble Yard
+LukeArio
+['[SF]'] science fiction
+3
+41dexs
+self.shortstories
+shortstories
+False
+False
+
+(RF) The Insignificance of Mankind
+SlipporyDik
+[] realistic fiction
+2
+41bnal
+self.shortstories
+shortstories
+False
+False
+
+[RF] Phantom Pain
+radclive
+['[RF]'] realistic fiction
+2
+41b8aa
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Inquisitor: Chapter Four
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+4
+419paw
+self.shortstories
+shortstories
+False
+False
+
+[RF] This Is How I Grieve
+justanner
+['[RF]'] realistic fiction
+5
+419lxj
+self.shortstories
+shortstories
+False
+False
+
+Someone Issued a Picture Prompt on FB (You volunteer to be the first human to test time travel, only going an hour forward in time. When you step out of the travel pod, all humans are gone.) and this is my answer to it [SF]
+Erdi99
+['[SF]'] science fiction
+33
+4192ky
+self.shortstories
+shortstories
+False
+False
+
+[HF] The Black Ribbon
+the_missing_pieces
+['[HF]'] historical fiction
+1
+4181ca
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Inquisitor: Chapter Three
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+2
+417py1
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Last Day of High School I Sat in My Car and Cried
+minirazordude999
+['[NF]'] non-fiction
+6
+416xsr
+self.shortstories
+shortstories
+False
+False
+
+[MF] The Failed Frozen Expedition
+The_Commander
+['[MF]'] misc fiction
+2
+4155x6
+self.shortstories
+shortstories
+False
+False
+
+[SF] Malcolm on the Bus
+Onyahsa
+['[SF]'] science fiction
+3
+414tlb
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Devil is in the Details
+radclive
+['[FN]'] fantasy
+6
+4145l2
+self.shortstories
+shortstories
+False
+False
+
+[SF] Real Estate
+Justanotherpen
+['[SF]'] science fiction
+3
+411wkb
+self.shortstories
+shortstories
+False
+False
+
+[FN] Shadow of the Willow
+QuantumQuetzal
+['[FN]'] fantasy
+3
+410460
+self.shortstories
+shortstories
+False
+False
+
+[HR] Stalkers
+KatsumiM
+['[HR]'] horror
+1
+40zrkz
+self.shortstories
+shortstories
+False
+False
+
+[SF] Part 1: Departure
+evan826
+['[SF]'] science fiction
+4
+40z54b
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Inquisitor: Part Two
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+5
+40x81l
+self.shortstories
+shortstories
+False
+False
+
+[HF] 70 years
+morthrex
+['[HF]'] historical fiction
+1
+40vsck
+self.shortstories
+shortstories
+False
+False
+
+[HR] I journeyed into the frozen wastes, and did not come back alone
+Playdoh12
+['[HR]'] horror
+9
+40vevn
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Inquisitor: Chapter One
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+2
+40txq3
+self.shortstories
+shortstories
+False
+False
+
+[RF]"The Smile" I know it's pretty rough around the edges, and that it could use quite a bit of restructuring, but I was just hoping for some early feedback.
+Eddiestory
+['[RF]'] realistic fiction
+1
+40qsqk
+self.shortstories
+shortstories
+False
+False
+
+[FN] The Inquisitor: Prologue
+CAPTIN-CAPSLOCK
+['[FN]'] fantasy
+3
+40m35b
+self.shortstories
+shortstories
+False
+False
+
+[NF]A random Monday in 2016
+ScotJap
+['[NF]'] non-fiction
+2
+40lpur
+self.shortstories
+shortstories
+False
+False
+
+[MF] She was the Spark
+demonsnare
+['[MF]'] misc fiction
+3
+40iw8m
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Ride
+iGolle
+['[SF]'] science fiction
+5
+40f9fk
+self.shortstories
+shortstories
+False
+False
+
+(FN) The Basketball Game
+greysweats
+[] fantasy
+2
+40ezmr
+self.shortstories
+shortstories
+False
+False
+
+[TH] Caballero
+calverism
+['[TH]'] thriller
+2
+40djzy
+self.shortstories
+shortstories
+False
+False
+
+[RF] Kroy Wen (Part 1)
+k3yblade21
+['[RF]'] realistic fiction
+2
+40aq6z
+self.shortstories
+shortstories
+False
+False
+
+Protected by Blood realistic fiction RF
+shanteservice
+[] realistic fiction
+2
+408irj
+self.shortstories
+shortstories
+False
+False
+
+[HR][HM] The Herd
+The_Commander
+['[HR]', '[HM]'] horror
+5
+404g6i
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Journey to the Others [6291]
+AnElepahntCage
+['[SF]'] science fiction
+3
+40201u
+self.shortstories
+shortstories
+False
+False
+
+[Long][Death][SP] Four Questions
+Jyxxe
+['[Long]', '[Death]', '[SP]'] speculative fiction
+2
+401k6w
+self.shortstories
+shortstories
+False
+False
+
+[MS] Everyone has their demons - NSFW
+ZF_Marbles
+['[MS]'] mystery & suspense
+3
+3zwqms
+self.shortstories
+shortstories
+False
+True
+
+[HF] - Sir Galaad of Austin and The Great Moss Dome
+Frago242
+['[HF]'] historical fiction
+2
+3zwmzi
+self.shortstories
+shortstories
+False
+False
+
+[HF] The Forgotten Sword
+The_Commander
+['[HF]'] historical fiction
+7
+3zstpc
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Void
+feefifoari
+['[SF]'] science fiction
+2
+3zrz28
+self.shortstories
+shortstories
+False
+False
+
+(UR) A Night
+barrelofmonks
+[] urban
+1
+3zrxu5
+self.shortstories
+shortstories
+False
+False
+
+[MS] Scout
+itstheleviathan
+['[MS]'] mystery & suspense
+5
+3zrfcl
+self.shortstories
+shortstories
+False
+False
+
+[TH] Misplaced
+SoSmoooth
+['[TH]'] thriller
+1
+3zr95c
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Doc.
+AdamM72
+['[RF]'] realistic fiction
+2
+3zpinq
+self.shortstories
+shortstories
+False
+False
+
+[RF] I will always forgive you
+leenirvanatran
+['[RF]'] realistic fiction
+2
+3zoi7u
+self.shortstories
+shortstories
+False
+False
+
+[NF] And it was home...
+Pheonix1327
+['[NF]'] non-fiction
+2
+3zmg6g
+self.shortstories
+shortstories
+False
+False
+
+[HR] [RF] Awake
+Xedek
+['[HR]', '[RF]'] realistic fiction
+4
+3zlzlk
+self.shortstories
+shortstories
+False
+False
+
+[HR] Room 502
+nazothedark
+['[HR]'] horror
+3
+3zka2a
+self.shortstories
+shortstories
+False
+False
+
+[FN] Miranda and the Horn of Bantor.
+MamiTae
+['[FN]'] fantasy
+4
+3zhl23
+self.shortstories
+shortstories
+False
+False
+
+[SP] Two Feathers
+davidlfelts
+['[SP]'] speculative fiction
+1
+3zemnc
+self.shortstories
+shortstories
+False
+False
+
+[RF] Bone yard
+AdamM72
+['[RF]'] realistic fiction
+2
+3zeiut
+self.shortstories
+shortstories
+False
+False
+
+[MF] Eighty Six Seconds
+mossyroc
+['[MF]'] misc fiction
+3
+3zdi8i
+self.shortstories
+shortstories
+False
+False
+
+[RO] A Lot of Love
+None
+['[RO]'] romance
+2
+3zcw2f
+self.shortstories
+shortstories
+False
+False
+
+[HR] The Girl
+elmoiv
+['[HR]'] horror
+3
+3zbaxg
+self.shortstories
+shortstories
+False
+False
+
+[HF][FN] The Sacrifice of the Ezzoh.
+DoubleDopeDose
+['[HF]', '[FN]'] fantasy
+3
+3z9chr
+self.shortstories
+shortstories
+False
+False
+
+[MF] Game Boy
+wigleyman
+['[MF]'] misc fiction
+3
+3z9cf3
+self.shortstories
+shortstories
+False
+False
+
+[RF] Letting My Imagination Out
+Robesc
+['[RF]'] realistic fiction
+2
+3z7wa4
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Cat
+ericshiff
+['[NF]'] non-fiction
+2
+3z75tx
+self.shortstories
+shortstories
+False
+False
+
+[MS] The Crimson Dandelion
+DONT_LOOK_BEHIND_Y0U
+['[MS]'] mystery & suspense
+3
+3z47yq
+self.shortstories
+shortstories
+False
+False
+
+[HR] The Clock
+MattCanSeeStars
+['[HR]'] horror
+2
+3z3elv
+self.shortstories
+shortstories
+False
+False
+
+(HM) (NF) Awkward teaching moments....
+pjth83
+[] non-fiction
+1
+3z0gow
+self.shortstories
+shortstories
+False
+False
+
+[SF] Shells
+akujiki87
+['[SF]'] science fiction
+2
+3yzqja
+self.shortstories
+shortstories
+False
+False
+
+[HR] My Horror: It Happened
+Charles_Opara
+['[HR]'] horror
+1
+3yzdxm
+self.shortstories
+shortstories
+False
+False
+
+[AA] The Bikini Chase
+MamiTae
+['[AA]'] action & adventure
+3
+3yx7jo
+self.shortstories
+shortstories
+False
+False
+
+[RF] Collisions
+davidlfelts
+['[RF]'] realistic fiction
+1
+3yx3ff
+self.shortstories
+shortstories
+False
+False
+
+[HR] Chopper
+davidlfelts
+['[HR]'] horror
+5
+3ywv5c
+self.shortstories
+shortstories
+False
+False
+
+(HR) Incarnate
+RipXCCueBall
+[] horror
+3
+3yvx1x
+self.shortstories
+shortstories
+False
+False
+
+[RO] Thomas and Claire
+oddlyinsane
+['[RO]'] romance
+3
+3yvtra
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Endling
+kimjonghardun
+['[SP]'] speculative fiction
+1
+3yv875
+self.shortstories
+shortstories
+False
+False
+
+[SP] A Humoral Afterlife
+MamiTae
+['[SP]'] speculative fiction
+1
+3yus18
+self.shortstories
+shortstories
+False
+False
+
+[RO] A Letter To My Next Girlfriend
+eddiesalazar
+['[RO]'] romance
+0
+3yumzt
+self.shortstories
+shortstories
+False
+False
+
+[NF] Lets all play pretend
+TechnicallyDreaming
+['[NF]'] non-fiction
+2
+3yu6lj
+self.shortstories
+shortstories
+False
+False
+
+[RO] This feeling again huh?
+demonsnare
+['[RO]'] romance
+3
+3ytlut
+self.shortstories
+shortstories
+False
+False
+
+[RF] Sun and Honey
+davidlfelts
+['[RF]'] realistic fiction
+2
+3ytihu
+self.shortstories
+shortstories
+False
+False
+
+[SP] A Visitor in Traffic
+MamiTae
+['[SP]'] speculative fiction
+3
+3ytbni
+self.shortstories
+shortstories
+False
+False
+
+[HR] The Name on the Marker Had Long Since Worn Away
+APBoland
+['[HR]'] horror
+2
+3ysuw7
+self.shortstories
+shortstories
+False
+False
+
+[MF] I Am Awake
+smrvl
+['[MF]'] misc fiction
+5
+3ysrk5
+self.shortstories
+shortstories
+False
+False
+
+[SF] A.M will do!
+AdamM72
+['[SF]'] science fiction
+1
+3yseqn
+self.shortstories
+shortstories
+False
+False
+
+[FN] A Knight in the Dead Forest
+Mr_master89
+['[FN]'] fantasy
+4
+3ys4s2
+self.shortstories
+shortstories
+False
+False
+
+[FN]The Stone Princess [Original] [First time]
+vish9u
+['[FN]', '[Original]', '[First'] fantasy
+1
+3yqjns
+self.shortstories
+shortstories
+False
+False
+
+[MF] "What do you hear?"
+blackwhiterose
+['[MF]'] misc fiction
+2
+3yq83m
+self.shortstories
+shortstories
+False
+False
+
+[SF] Alex and the Girl from Russia
+iGolle
+['[SF]'] science fiction
+2
+3ylir4
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Waltz
+Snoosnoo_Fish
+['[NF]'] non-fiction
+3
+3ykbi7
+self.shortstories
+shortstories
+False
+False
+
+[MF] I want to share some six word stories with you
+1266956843
+['[MF]'] misc fiction
+5
+3yizo2
+self.shortstories
+shortstories
+False
+False
+
+[MF] [RF] Colors of the sky
+8Bit-Zombie
+['[MF]', '[RF]'] realistic fiction
+2
+3yhpkd
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Man Who Lived Forever
+Milkshaketurtle79
+['[SF]'] science fiction
+3
+3yh3lu
+self.shortstories
+shortstories
+False
+False
+
+[RF] [MS] Untitled // 01
+shini_gloves
+['[RF]', '[MS]'] realistic fiction
+1
+3ycwdn
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Flash and Shadow
+dr337
+['[SP]'] speculative fiction
+4
+3ycmgl
+self.shortstories
+shortstories
+False
+False
+
+[RO] Story of Life (Pt. 4)
+LegendAssassin
+['[RO]'] romance
+2
+3yaszh
+self.shortstories
+shortstories
+False
+False
+
+[HR] The Dome (Unfinished)
+Murshed02
+['[HR]'] horror
+3
+3yarvp
+self.shortstories
+shortstories
+False
+False
+
+Bedfellows [RO]
+kelstobin
+['[RO]'] romance
+2
+3y9zh1
+self.shortstories
+shortstories
+False
+False
+
+(RF) Reflections
+a6lennox
+[] realistic fiction
+2
+3y9y44
+self.shortstories
+shortstories
+False
+False
+
+[SF] You Animals, I'm Leaving
+LovisTheWise
+['[SF]'] science fiction
+4
+3y73v9
+self.shortstories
+shortstories
+False
+False
+
+[MF] A Little Town Called Family
+BanDi-Br0ties
+['[MF]'] misc fiction
+2
+3y4ofm
+self.shortstories
+shortstories
+False
+False
+
+[HR] How I ruined Poetry for everyone in highschool
+ItsyouNOme
+['[HR]'] horror
+2
+3y42fe
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Phone is a Lie
+WhoopWhoopWhoopie
+['[SF]'] science fiction
+1
+3y3gw0
+self.shortstories
+shortstories
+False
+False
+
+[RO] Growing Up (Working draft title)
+TermyJW
+['[RO]'] romance
+4
+3y3ba4
+self.shortstories
+shortstories
+False
+False
+
+[SF] Deal With The Devil - The Devil Wants It Back
+NobodyReadsMyStuff
+['[SF]'] science fiction
+7
+3y2sqp
+self.shortstories
+shortstories
+False
+False
+
+[MF] Paper Cut
+darkstarfalling
+['[MF]'] misc fiction
+1
+3y2adf
+self.shortstories
+shortstories
+False
+False
+
+[MF] A goose in time
+ICantSpellDafney
+['[MF]'] misc fiction
+3
+3y0u5q
+self.shortstories
+shortstories
+False
+False
+
+[MF] Jeff the Goose
+Pls_Read_Guys
+['[MF]'] misc fiction
+3
+3y0mtn
+self.shortstories
+shortstories
+False
+False
+
+Shades of Green [RO]
+irowboats1
+['[RO]'] romance
+3
+3xy5iv
+self.shortstories
+shortstories
+False
+False
+
+[AA] A New Hero
+Pls_Read_Guys
+['[AA]'] action & adventure
+6
+3xwvxs
+self.shortstories
+shortstories
+False
+False
+
+[SF] An ocean full of lies
+ItsyouNOme
+['[SF]'] science fiction
+8
+3xw773
+self.shortstories
+shortstories
+False
+False
+
+[SF]A trip to nowhere
+None
+['[SF]'] science fiction
+4
+3xvc1k
+self.shortstories
+shortstories
+False
+False
+
+[SF] Please Rewind
+iGolle
+['[SF]'] science fiction
+5
+3xubjf
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Regretful Demise of James
+VasiliKolovsky
+['[SF]'] science fiction
+4
+3xtz77
+self.shortstories
+shortstories
+False
+False
+
+[SF] If Legos were truly painful.
+None
+['[SF]'] science fiction
+3
+3xt5yj
+self.shortstories
+shortstories
+False
+False
+
+[HF] In 1971 Samuel Arvidson a plumber living in Tromso, Norway suspects that his neighbor Rabbi Robert Liebstein is actually Adolf Hitler.
+ASIMAUVE
+['[HF]'] historical fiction
+1
+3xt2fr
+self.shortstories
+shortstories
+False
+False
+
+[MF] Not sure about the tag, but oh well. It's a quick story I pumped out last night, but I think I would like to explore it more. First post! Let me know what you think!
+WellThatsPrompting
+['[MF]'] misc fiction
+7
+3xqlgz
+self.shortstories
+shortstories
+False
+False
+
+[RO] Story of Life (Pt. 3)
+LegendAssassin
+['[RO]'] romance
+5
+3xq0lb
+self.shortstories
+shortstories
+False
+False
+
+[MF] The lifeless monster
+hostViz0r
+['[MF]'] misc fiction
+4
+3xocw8
+self.shortstories
+shortstories
+False
+False
+
+[MS] Nora + Audio reading - my first short story
+theonewhosmells
+['[MS]'] mystery & suspense
+3
+3xocq4
+self.shortstories
+shortstories
+False
+False
+
+[SP] Transcription of taped conversation. RECIA Documents. Classified.
+Nope__Nope__Nope
+['[SP]'] speculative fiction
+3
+3xnx5a
+self.shortstories
+shortstories
+False
+False
+
+[RF] Sam's life sucks (working title)
+Niman
+['[RF]'] realistic fiction
+3
+3xlj84
+self.shortstories
+shortstories
+False
+False
+
+[TH] My brother wrote this. Let me know what you think
+bundy123191
+['[TH]'] thriller
+4
+3xjbaz
+self.shortstories
+shortstories
+False
+False
+
+[SF]A short story i thought of on the way home from work
+Do0dy93
+['[SF]'] science fiction
+5
+3ximke
+self.shortstories
+shortstories
+False
+False
+
+[SF] "Explain why murder is bad like I'm a member of an extraterrestrial species that has no concept of mortality."
+PrincessYukon
+['[SF]'] science fiction
+8
+3xhtjs
+self.shortstories
+shortstories
+False
+False
+
+[FN] Our Heroes
+hostViz0r
+['[FN]'] fantasy
+2
+3xgslw
+self.shortstories
+shortstories
+False
+False
+
+[SF][HR] I am The End
+igknighted
+['[SF]', '[HR]'] science fiction
+2
+3xg79g
+self.shortstories
+shortstories
+False
+False
+
+[MF] The many faces of existence
+ana_sg
+['[MF]'] misc fiction
+6
+3xc4u5
+self.shortstories
+shortstories
+False
+False
+
+[MF] Take me to another world
+ItsyouNOme
+['[MF]'] misc fiction
+2
+3xb3ou
+self.shortstories
+shortstories
+False
+False
+
+[MS] The Tale of a Hypocrite from Privilege
+DavieTaggart
+['[MS]'] mystery & suspense
+1
+3x9uua
+self.shortstories
+shortstories
+False
+False
+
+[RF] Like a feather
+Peripherial
+['[RF]'] realistic fiction
+1
+3x9nw4
+self.shortstories
+shortstories
+False
+False
+
+[RF] Short Story Snippet Pt. 1
+storysnips22
+['[RF]'] realistic fiction
+2
+3x4s16
+self.shortstories
+shortstories
+False
+False
+
+[SP] The Life of the Forest
+anbolkonsky
+['[SP]'] speculative fiction
+2
+3x4aq1
+self.shortstories
+shortstories
+False
+False
+
+[NF] Anything can happen in your dreams.
+PM_ME_YOUR_ONSIES
+['[NF]'] non-fiction
+2
+3x2prt
+self.shortstories
+shortstories
+False
+False
+
+[MF] Lost Lane [very short story]
+Toby1066
+['[MF]', '[very'] misc fiction
+4
+3x0vkm
+self.shortstories
+shortstories
+False
+False
+
+[RO] The Love Struggle
+darklyguy
+['[RO]'] romance
+2
+3x0pls
+self.shortstories
+shortstories
+False
+False
+
+[HR] Beast of Dorchester
+biscuitatus
+['[HR]'] horror
+1
+3wyji0
+self.shortstories
+shortstories
+False
+False
+
+[FN] What the hell am I writing?
+IndieRogue
+['[FN]'] fantasy
+0
+3wxxqh
+self.shortstories
+shortstories
+False
+False
+
+[RF] My Story
+scholl_42
+['[RF]'] realistic fiction
+1
+3wx61w
+self.shortstories
+shortstories
+False
+False
+
+[HR] Longwave
+eaparsley
+['[HR]'] horror
+4
+3wruiz
+self.shortstories
+shortstories
+False
+False
+
+[RF] A Good Day
+bunzmastersumz
+['[RF]'] realistic fiction
+2
+3wrdji
+self.shortstories
+shortstories
+False
+False
+
+[RO] Story of Life (Pt. 2)
+LegendAssassin
+['[RO]'] romance
+1
+3wr4df
+self.shortstories
+shortstories
+False
+False
+
+[RF] Second Chances
+hostViz0r
+['[RF]'] realistic fiction
+2
+3wqmp7
+self.shortstories
+shortstories
+False
+False
+
+[FN] don't trust the mets
+eaparsley
+['[FN]'] fantasy
+2
+3wp2s9
+self.shortstories
+shortstories
+False
+False
+
+[NF][RO] "30/27"
+Legalperson406
+['[NF]', '[RO]'] non-fiction
+3
+3wn2cy
+self.shortstories
+shortstories
+False
+False
+
+[RO] Story of Life (Pt. 1)
+LegendAssassin
+['[RO]'] romance
+2
+3wmksi
+self.shortstories
+shortstories
+False
+False
+
+Milk And Honey Part 1 [AA]
+Chillerchatter
+['[AA]'] action & adventure
+2
+3wkl6z
+self.shortstories
+shortstories
+False
+False
+
+[SP] [SF] The Universal Truth (Pt.2)
+AvenirDesign
+['[SP]', '[SF]'] science fiction
+4
+3wj5r4
+self.shortstories
+shortstories
+False
+False
+
+[SP] [SF] The Universal Truth (Pt.1)
+AvenirDesign
+['[SP]', '[SF]'] science fiction
+5
+3wfo40
+self.shortstories
+shortstories
+False
+False
+
+[MF][FN][SF] Serendipitous Misfortune
+GuyWithSausageFinger
+['[MF]', '[FN]', '[SF]'] science fiction
+1
+3wcm79
+self.shortstories
+shortstories
+False
+False
+
+[AA] The Daywalkers, Ch 1
+Rlamb2
+['[AA]'] action & adventure
+3
+3wbawe
+self.shortstories
+shortstories
+False
+False
+
+[MF][SF] The Brightside Where the Grass is Yellow
+hndsomeJack
+['[MF]', '[SF]'] science fiction
+5
+3w6c19
+self.shortstories
+shortstories
+False
+False
+
+[MF] I wish I was a water molecule
+ItsyouNOme
+['[MF]'] misc fiction
+6
+3w54jv
+self.shortstories
+shortstories
+False
+False
+
+[SF][RF][HM] How to Destroy the Internet
+skylarmt
+['[SF]', '[RF]', '[HM]'] science fiction
+1
+3w4tbd
+self.shortstories
+shortstories
+False
+False
+
+[RF] "Why do I have this".
+IAMHAX0R
+['[RF]'] realistic fiction
+1
+3w449e
+self.shortstories
+shortstories
+False
+False
+
+[SF] Hush-Hush
+MrMelonCauli
+['[SF]'] science fiction
+2
+3w3rql
+self.shortstories
+shortstories
+False
+False
+
+[TH] I AM DAMNED (The Journal & Story)
+likerosesonadeathbed
+['[TH]'] thriller
+2
+3vx9ij
+self.shortstories
+shortstories
+False
+False
+
+[FN] Renby's cat
+Ghyrron
+['[FN]'] fantasy
+3
+3vx2p4
+self.shortstories
+shortstories
+False
+False
+
+[MF] Be mindful, demon.
+senior_fission
+['[MF]'] misc fiction
+5
+3vwpml
+self.shortstories
+shortstories
+False
+False
+
+[RO] Business as Usual
+demonsnare
+['[RO]'] romance
+6
+3vvuj4
+self.shortstories
+shortstories
+False
+False
+
+[SP] Diary of a Dead Man
+WrongfullyWriting
+['[SP]'] speculative fiction
+1
+3vus4w
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Traveler
+WrongfullyWriting
+['[SF]'] science fiction
+3
+3vqo04
+self.shortstories
+shortstories
+False
+False
+
+Two short stories. The first is [SF] and the second is [HR]
+ClandestineMovah
+['[SF]', '[HR]'] science fiction
+1
+3vqav3
+self.shortstories
+shortstories
+False
+False
+
+[SF][AA] Chapter from "Avalanche"
+TimTams553
+['[SF]', '[AA]'] science fiction
+1
+3vq3pq
+self.shortstories
+shortstories
+False
+False
+
+[SF][AA] Chapter from "Avalanche"
+TimTams553
+['[SF]', '[AA]'] science fiction
+3
+3vpxwq
+self.shortstories
+shortstories
+False
+False
+
+[SF] Superterranean Cabin Fevered Citizen
+jakewhowrites
+['[SF]'] science fiction
+2
+3vm3ib
+self.shortstories
+shortstories
+False
+False
+
+[FN] The MeetingConexus Part I
+obedimp
+['[FN]'] fantasy
+1
+3vkfe6
+self.shortstories
+shortstories
+False
+False
+
+[MF] Juan Green Meets John Green
+Thebramblewish
+['[MF]'] misc fiction
+1
+3virls
+self.shortstories
+shortstories
+False
+False
+
+[SF] Alice: The birth of an AI
+PlatFleece
+['[SF]'] science fiction
+3
+3vilvg
+self.shortstories
+shortstories
+False
+False
+
+[MF] I'm Going to Burn You Like Teenage Love
+LuckyRhinoceros
+['[MF]'] misc fiction
+2
+3vfxkk
+self.shortstories
+shortstories
+False
+False
+
+[SF] After the End of Days: Chapter 1 (first post
+reallybadazz
+['[SF]'] science fiction
+2
+3ve11z
+self.shortstories
+shortstories
+False
+False
+
+[HR] twenty questions
+XjonboyX
+['[HR]'] horror
+3
+3vd87s
+self.shortstories
+shortstories
+False
+False
+
+[AA] [NF] My first call-another true story of firefighting
+XjonboyX
+['[AA]', '[NF]'] non-fiction
+0
+3vd1fc
+self.shortstories
+shortstories
+False
+False
+
+[RF] 3 metophorical doors
+ItsyouNOme
+['[RF]'] realistic fiction
+1
+3vcg33
+self.shortstories
+shortstories
+False
+False
+
+The Loss of Margot [HR][MF]
+Worksn
+['[HR]', '[MF]'] misc fiction
+3
+3vappn
+self.shortstories
+shortstories
+False
+False
+
+[MF] "Where Am I?" (First Story)
+frustrated44
+['[MF]'] misc fiction
+3
+3v9kgg
+self.shortstories
+shortstories
+False
+False
+
+[RF] Choosing Between Life and Death
+Thebramblewish
+['[RF]'] realistic fiction
+2
+3v9eec
+self.shortstories
+shortstories
+False
+False
+
+[HR] [MS] [SF] My first short story ever
+MDeanW
+['[HR]', '[MS]', '[SF]'] science fiction
+2
+3v83e4
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Biggest Letdown
+Ocario
+['[SF]'] science fiction
+1
+3v6xo7
+self.shortstories
+shortstories
+False
+False
+
+[SF] Judgement Day - Part 4 (Final)
+thesca55
+['[SF]'] science fiction
+3
+3v636a
+self.shortstories
+shortstories
+False
+False
+
+[SF] Judgement Day - Part 3
+thesca55
+['[SF]'] science fiction
+3
+3v61hb
+self.shortstories
+shortstories
+False
+False
+
+[RF] [MF] [FF] I had a piece published in the new issue of Maudlin House.. but I'm not telling which one!
+springbroke
+['[RF]', '[MF]', '[FF]'] realistic fiction
+6
+3v2e5n
+self.shortstories
+shortstories
+False
+False
+
+[AA] A dirty western
+tryingToStuff
+['[AA]'] action & adventure
+5
+3v20aj
+self.shortstories
+shortstories
+False
+False
+
+[hf][hr] Anna's Tale
+statisticalshark
+['[hf]', '[hr]'] historical fiction
+1
+3v1bpz
+self.shortstories
+shortstories
+False
+False
+
+[SF] Judgement Day - Part 2
+thesca55
+['[SF]'] science fiction
+2
+3uvlf8
+self.shortstories
+shortstories
+False
+False
+
+[SF] The empathetic automaton.
+Noclue55
+['[SF]'] science fiction
+2
+3uthvg
+self.shortstories
+shortstories
+False
+False
+
+[HM] [RF] [NSFW] Preface of "Get Rich and Die F*%&ing: A Memoir/Workbook/Inspirational Guide to Using Your Suck to Propel You to Greatness"
+big_d_razkow
+['[HM]', '[RF]', '[NSFW]'] realistic fiction
+3
+3usud6
+self.shortstories
+shortstories
+False
+True
+
+[AA]/[SF] Operation Sandstorm pt. 2
+Dusmus
+['[AA]', '[SF]'] science fiction
+2
+3us5yk
+self.shortstories
+shortstories
+False
+False
+
+[AA]/[SF] Operation Sandstorm pt. 1
+Dusmus
+['[AA]', '[SF]'] science fiction
+2
+3ury0h
+self.shortstories
+shortstories
+False
+False
+
+First short story attempt-true story of firefighting. [AA] [TH] [NF]
+XjonboyX
+['[AA]', '[TH]', '[NF]'] non-fiction
+3
+3unyr1
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Sea
+LearningThug
+['[RF]'] realistic fiction
+5
+3umfwn
+self.shortstories
+shortstories
+False
+False
+
+[MS] CattyCat and BillyBobDogs day out
+mitosan
+['[MS]'] mystery & suspense
+2
+3ukyu9
+self.shortstories
+shortstories
+False
+False
+
+[RF] Gun
+exit_the_ketchup
+['[RF]'] realistic fiction
+2
+3ujw5i
+self.shortstories
+shortstories
+False
+False
+
+[SF] Worlds Away 1 [Chapter 1]
+WorldsAwayOfficial
+['[SF]', '[Chapter'] science fiction
+3
+3uhs68
+self.shortstories
+shortstories
+False
+False
+
+[HR] The Bedside Entity
+Usher_III
+['[HR]'] horror
+3
+3uffs0
+self.shortstories
+shortstories
+False
+False
+
+[SF] The Day the Sky Burned. Pt. 1
+KingDakin
+['[SF]'] science fiction
+3
+3uf4kh
+self.shortstories
+shortstories
+False
+False
+
+[MF] Survivalist
+tiramizu
+['[MF]'] misc fiction
+3
+3ueg1j
+self.shortstories
+shortstories
+False
+False
+
+Quarks and Stardust [SP]
+starivore
+['[SP]'] speculative fiction
+1
+3uc5ls
+self.shortstories
+shortstories
+False
+False
+
+[RF] My Window
+Silverflash22
+['[RF]'] realistic fiction
+2
+3ub8uj
+self.shortstories
+shortstories
+False
+False
+
+Grandma [RF]
+mattz0r98
+['[RF]'] realistic fiction
+5
+3u9inh
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Disappearance of Gabbie
+synthwizard
+['[NF]'] non-fiction
+8
+3u7pea
+self.shortstories
+shortstories
+False
+False
+
+[MF] Taste is a transaction between the tongue and the mind
+Gallifreyggle
+['[MF]'] misc fiction
+1
+3u4z3s
+self.shortstories
+shortstories
+False
+False
+
+[RF] The Let
+41488p
+['[RF]'] realistic fiction
+2
+3u1vro
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Girl From Helsinki
+arborcide
+['[NF]'] non-fiction
+2
+3tx3aa
+self.shortstories
+shortstories
+False
+False
+
+[NF] Kicking Horse
+PM_ME_YOUR_CALCULUS
+['[NF]'] non-fiction
+2
+3ttvc8
+self.shortstories
+shortstories
+False
+False
+
+[RF] John
+Sir_Chew
+['[RF]'] realistic fiction
+1
+3tsozm
+self.shortstories
+shortstories
+False
+False
+
+[RO] The longest love story
+ItsyouNOme
+['[RO]'] romance
+1
+3ts572
+self.shortstories
+shortstories
+False
+False
+
+[MS] A Short Story in progress: Something.
+hoopscoop3000
+['[MS]'] mystery & suspense
+1
+3trrlc
+self.shortstories
+shortstories
+False
+False
+
+[MF] The Champion
+millennialbdh
+['[MF]'] misc fiction
+3
+3tpai3
+self.shortstories
+shortstories
+False
+False
+
+(MF) a moment in time
+rob2060
+[] misc fiction
+6
+3tmc9x
+self.shortstories
+shortstories
+False
+False
+
+[NF] The Bungdeleon
+Joshford
+['[NF]'] non-fiction
+3
+3tkw6u
+self.shortstories
+shortstories
+False
+False
+
+[MF] Her Mother's Daughter
+mrssmithhh
+['[MF]'] misc fiction
+3
+3ti61w
+self.shortstories
+shortstories
+False
+False
+
+[RF] Love
+Sir_Chew
+['[RF]'] realistic fiction
+3
+3tgtvq
+self.shortstories
+shortstories
+False
+False
+
+[MF] A good day
+LurkTheReddit
+['[MF]'] misc fiction
+4
+3tgnc1
+self.shortstories
+shortstories
+False
+False
+
+[RF] Acceptance
+Sir_Chew
+['[RF]'] realistic fiction
+3
+3te2zc
+self.shortstories
+shortstories
+False
+False
+
+[SF] Kinda
+None
+['[SF]'] science fiction
+3
+3tcoiy
+self.shortstories
+shortstories
+False
+False
+
+[RF] Fallout 4 + Metro 2033
+Russoe
+['[RF]'] realistic fiction
+4
+3t90i1
+self.shortstories
+shortstories
+False
+False
+
+[SP] I was asked to write a story about the life of my cat and the area we moved to....
+Shinjetsu01
+['[SP]'] speculative fiction
+6
+3t8eag
+self.shortstories
+shortstories
+False
+False
+
+[MF] I want all the girls.
+cocopops23
+['[MF]'] misc fiction
+4
+3t7vta
+self.shortstories
+shortstories
+False
+False
+
+[MF] The Fort
+kayamon
+['[MF]'] misc fiction
+0
+3t7c3i
+self.shortstories
+shortstories
+False
+False
+
+[NF] 126 Days I Spent as a Teenage Drug Dealer (Part 3/ Brian Continued)
+MHLocal
+['[NF]'] non-fiction
+1
+3t6tul
+self.shortstories
+shortstories
+False
+False
+
+[NF] 126 Days I Spent as a Teenage Drug Dealer (Part 2)
+MHLocal
+['[NF]'] non-fiction
+1
+3t6s7s
+self.shortstories
+shortstories
+False
+False
+

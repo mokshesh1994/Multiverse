@@ -1,0 +1,108 @@
+The chair was vibrating. Not intense, like an earthquake, but just enough to be noticeable. Like the gentle lazy orbit of a bumble bee around a purple iris in the soft warmth of June, on the banks of a calm mountain stream  
+
+John Angler was suddenly yanked from his reverie by a harsh buzzing racket. Damn, I thought this would never end, John thought to himself. He pulled himself up from his chair and checked the CCTV monitor. The buzzing sounded again. Okay, okay, hold on. John pulled a key from his pocket and unlocked the door, where a slightly younger man was standing. 
+"Thought you'd never wake up," the man bantered.  
+"Well at least I don't have to spend all day crawling through muck tubes, Thomas. You look like you just went ten rounds with Hog McGuire in the mud pit." John retorted. Thomas took off a mud-coated identification badge and threw it on the desk.  
+"Yeah yeah, gloat all you want. I can safely say that the entire system in Quadrant 2 is clean as a whistle. Because all the muck is on me." He tried to brush off the mud that was plastered to his plastic suit but only succeeded in spreading it on his hands. "On a more official note, yes the release valves are a bit screwed. I couldn't get them to free up."  
+"Okay, we'll run a blow-through test in a few hours, when peak load is off. I'll get maintenance on the clock ASAP. But go get cleaned off before you turn the entire office into my grandpa's pig pen. The last thing we need is mud-coated electronics." John grabbed a broom while Thomas headed for a door on the opposite wall.  
+
+
+	
+The buzzer sounded with a groaning screech. Why can't they just replace that thing with a nice calm tone? John wondered, while he cleared some papers off the desk and glanced at the CCTV monitor. He did a double-take then shouted behind him, "Thomas! We've got big company!" Thomas, fresh out of the shower and in the process of getting into a fresh work suit, stumbled around looking for his boots in the dim lighting. John quickly smoothed his hair and straightened his lapels to at least look a tad bit more presentable, and then unlocked the door right as Thomas scrambled into a sitting position looking entirely disheveled. Then through the door came the biggest of the big top dog in John's eyes: the CEO of the Company himself, Ken McFarland.  
+	
+"Mr. McFarland, what an honor to meet you. Had we known you were coming we would have made a greater effort to clean the office up, sir." John apologized profusely. The CEO looked around the dim, scattered office and made a non-committal sound.  
+"No need to apologize, uh, what's your name again?" The CEO asked.  
+"John. John Angler, sir. And this is my colleague, Thomas Raiel." John motioned to the back of the room.  
+"Well then, nice to meet you, John. My entourage and I plan to take a quick tour of the facility here, considering that I now own the place. I would be appreciative if you would mind describing how you can run the place from here."  
+"Ah, ok uh,"  Caught a little off-guard, John fiddled with his ID badge while he gathered his thoughts. "Well, this post is, ah, the first redundant control room for most of the nuclear reactor's functions. We can fully control the reactor from here if we need to"  
+John spent 10 awkward minutes describing the basic functions of the control office. At the end of John's lecture Ken thanked him and asked Thomas to give him the once-over of the reactor's mechanical workings. While they suited up in the required radiation suits John quizzed one of the CEO's assistants what he was doing here.  
+"Oh, well he was only appointed a week ago, and after getting through all the red tape that becomes of a throne change, he wanted to get acclimated to his position and learn about his assets. Naturally starting with his biggest one," she added.  
+"Okay, uh John, we're gonna start with the main intake pumps, work our way through the system and take a break at the main reactor tank's control room, then go up to the evaporator coils. Sound ok?" Thomas said before putting on his suit's muffling helmet.  
+"Yeah, sounds good. Let's not all get cancer, shall we?" Everyone chuckled a little bit, then filed out through the door behind Thomas's blue-colored suit. And little did they know that they were walking right into a superheated death trap.  
+
+
+
+The radio suddenly crackled with the noise of radiation and machinery, and a faint voice came through."Control 3, check your readings. We're getting an occasional pressure spike on the number 4 re-circulator."  
+"Control 3. Copy, Control 2. No anomalies on our end." A female voice answered.  
+"Control 2. Control 1, please confirm. John? You there?"  
+John leaned closer to the microphone. "Uh, cough Control 1. Copy, Control 2. Confirmation, no unusual readings. And don't act like you don't take the occasional nap, Phil."  
+"Whoa bellie!" The faint voice got stronger.
+"Uh, 'scuse me, Control 2, but what was that?"  
+"Just had a 15 second spike of over 900 kilopascals. Even the structure is groaning like a drunkard on Sunday morning."  
+"Control 1. That's way out of spec. Noise usually equals bad things. Control 3?"  
+"Control 3. It just dropped a bit over here. Something's playing racquetball with the pumps, I can hear it." The female voice responded again.  
+Suddenly a new voice cut in. "Central, reactor temp rising. 0.4 Celsius per minute. Control 2, what's going on?"  
+"Control 2. I just lost 90% coolant pressure. Something burst like a balloon in there."  
+"Flooding alarms in Quadrant 3!"  
+"Control 3. Control 2, switch to backup pumps."  
+"Central, Reactor temp now at 1.2C per minute and climbing rapidly. Initiating emergency protocol 4Q."  
+A blaring alarm began sounding in the hallways.  
+John jumped out of his seat."What..? Shit! Phil, there's people in there. Thomas took the spanking new brass in for a tour, and the first thing they were gonna hit was the intake pumps."  
+"Control 2. Burst is somewhere in Pipeline 3 heading for the cooling tower. I can bypass it but only at 30% cap for some reason."  
+The faint voice forced its way through again. "Control 3. I can't see anyone on the CCTV, but they could be anywhere in the maze. I can see the burst though, damn pipe split like a breakfast taco and it's still spewing."  
+John was visibly sweating even though the room was kept extremely cool. "Control 1. Someone's gotta find them. We can't have the CEO or anyone else dying today."  
+Suddenly a new voice came on the loudspeaker. "What? What the hell is going on? One second I'm opening a compartment door, the next the place is being flooded with scalding radioactive water, and I barely escape alive."  
+The sudden relief on John's face was short lived. "Thomas! Where are you and where's the rest of the brass?"  
+"Separated. I was going ahead to open the compartment when the line burst. They ran backwards and I can only hope they found somewhere to hunker down. As it is I can't touch the door, too damn hot. I'm in maintenance room 12."  
+	
+"Central, reactor still on heating trend. Capped at 0.9 Celsius per second and holding. If cooling is not back online within 10 minutes we must dump the main chamber."  
+"Control 2, reserve pumps at max. Appears to be a restriction in the line."  
+"Control 1. Crap Thomas was in there a couple hours ago. The release valves were corroded. We were going to have then replaced tonight."  
+"Well that ain't gonna help us now."  
+John's jaw was set in a hard line of morbid determination. "Screw this. I'm going in there with the welder."  
+"John! Bad idea! Lots of hot stuff that can, y'know, kill you?"  
+"Central. Protocol states in the event of a cooling system-"	
+"Screw the protocol, screw the government, screw the whole management staff. I'm going to do something while all you people sit on your scared asses."  
+Thomas came back on the radio with a pleading tone. "Dammit, John! You can't go in there like that!" Thomas yelled over the intercom. "You'll be roasted alive!" John was already halfway suited up in a shiny heat suit.  
+"Try and stop me. There are bigger things at stake here." John replied. He hit the power switch on the squealing intercom radio, and shoved through the reinforced door into the acrid stench of overheated coolant and blaring klaxons.  
+
+
+
+As John started down into the depths of the reactor with a portable welder on his back, it wasn't as bad as he thought.  
+At first there was nothing but the smell and the alarms. However as he traversed the inner workings of the reactor things became apparent. The heat became more and more noticeable. Steam began to cloud the air. And in some places the fluorescent lighting had quit working. Eventually he began sloshing in murky water, first to his ankles, then his knees, then eventually his chest. The water, mixed with a number of other coolant liquids, was heated to nearly 150 Celsius and became slightly radioactive, and would normally run in a closed loop system to vent the heat to the atmosphere.  
+The lined heat suit protected him, but only for a short time.  
+As he waded through the superheated water, sweating buckets as he went, John reflected on his life, or what was left of it. Maybe I'll die here, he thought, saving a bunch of people like a hero. I'll get a plaque, maybe a road, then everyone will forget and I'll fall behind like so much detritus. That's how history works, doesn't it? Suddenly his boot hit a piece of scrap metal. Picking it up with a pair of grippers he discovered it was a piece of metal. Looking up and about 15 feet in front of him, he could see the pipe split open like a cracked egg, with a few liters of coolant still pouring out. The split was about a meter and a half long in a 78cm diameter pipe, no more than 5 millimeters wide, and had drained most of the pressure in the pipe into the corridor. Grabbing the torch from the portable welder on his back, he climbed up the other conduits and began the almost too slow process of patching the pipe.  
+
+
+
+"Central. We have to dump the core. Right now."  
+"Control 2. John's down there. If we dump the rest of the core it'll backflush through that pipe and drown, bake or irradiate him."  
+"CentralWe can wait three more minutes. No more. We risk going critical as it is."  
+"You know that the portable welder isn't exactly speedy!"  
+"Three minutes. Not a microsecond more."  
+
+
+
+The patch wasn't going as well as John had hoped.  
+The wet steel was making for a poor welding surface and the electrode often sputtered. But he was making progress. Half of the split was now under a protective coating of iron. Then air began rushing out of the rest of the split, signaling an incoming wave of water. John tried to hurry the weld, but it took its own sweet time. Then he remembered one thing, from that high-school metal shop class all those years ago: Amperage. The welder ran off a small nickel-cadmium battery, and at its standard amperage would make over 5 meters of continuous weld. But if the amperage were increased  
+
+
+
+"Central, core dump in progress. Outgoing water is directed towards holding ponds alpha and delta, however release valves are inop and line 3 is still open."  
+"Control 2. Reversing backup pumps and opening floodcocks."  
+"Central. Fuel rods coming up now."  
+"Control 3. Having electrical grid fluctuations. Flooding is affecting systems."  
+"Wait a sec damn. Control 2. Pressure has stabilized in line 3."  
+"Central. Control 3, please confirm."  
+"Control 3. Confirm, pressure stabilized at 140 kilopascals. Bringing main pumps up on 3% curve."  
+"Central. Abort 4Q procedure. Repeat, abort 4Q procedure. Core temp is on downward trend, 0.1Celsius and dropping."  
+"Control 2. There's still people down in that hellhole. How the hell do we get the water out of the corridors?"  
+"Central. Borrow a dredge pump from maintenance. Dump the excess through a normal waste line, we'll deal with it later."  
+"On it. Control 2 out. Control 3, take over pumps starting... mark."  
+"Control 3. Controls transferred successfully."  
+"Central. Returning core to normal state. Temp on 0.5C decreasing trend. Now let's find some missing people."  
+
+
+
+Control room 2 leader Phil met with John near the edge of the water flooding. He had with him the dredge pump. After a quick hunt for a waste line hookup the pump was happily chugging away 50 gallons of now 90C water every minute , and the level in the corridor quickly dropped. After a few minutes of pumping John and Phil started checking side corridors for the missing people as they became available. The third door they checked led to a service tube. In it were five very grateful and very scared people, dressed in protective suits, cowering in the sweltering heat.  
+
+
+
+"What exactly caused the burst, Thomas?" John stood under Thomas while he inspected the pipe, a day after the burst. The area had been pumped dry and decontaminated only a few hours before.  
+"Not entirely sure. Looks like just normal fatigue, but I can't see how this pipe-"  
+"Gentlemen! I must commend you on your actions!" The CEO trundled up to John and Thomas with a cheery grin and a few grumbling lawyers in tow.  
+"It was nothing extraordinary, although I did go over my yearly limit of radiation exposure." John tried to maintain his modesty.  
+"Nonsense! You saved all our lives and many others to boot. I say you all deserve good raises." The CEO handed John and Thomas each a small page, detailing their increased salaries. John's eyes widened at the figure displayed.  
+"Sir we don't deserve this at all. We only were doing our jobs-"  
+"Please, please. Spare me the modesty speech. You've been working too long as it is. Come now, take a break, and I'll treat you all to a good meal and a beer, shall we?"  
+John just shook his head in disbelief as he and Thomas followed the CEO and his entourage out of the dark, dank depths of the deadly facility and into the open air.   

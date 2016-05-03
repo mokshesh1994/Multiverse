@@ -1,0 +1,47 @@
+Errant Code
+frankz0509
+The Overlord scratched his chin. "Dang it, are you sure it's happening?"
+
+A scared assistant fixed his spectacles and looked up from his terminal. "Y-yessir. 99.5% probability that... that errant code has appeared in the sim."
+
+"Appeared? What do you mean appeared?" The Overlord rolled up its sleeves and looked over the assistant's shoulder, fixated on the red blip in the stream of bits on the screen.
+
+"It's... ahem." The assistant zoomed in on the blip. "Errant code manifests through entropy, sir. Randomness. Circumstances that are innately chaotic converge to create an unpredictable data point that messes other bits around it."
+
+"How do we fix it then? Reboot the sim?" The Overlord contemplated.
+
+"No sir. Far too dangerous. Th-that would throw away centuries of data. Sim-time of course. But that's still weeks in our time." The assistant slumped.
+
+"Goddamn it. Call the engineers. Find a way to isolate this errant piece of code and fix it, quick!" The Overlord fumed. It floated through the offices and sat down at its desk. "I need this gone by this afternoon, before we present it to Alpha Omega."
+
+* * *
+
+"I suggest we leave it as is." An engineer said.
+
+"Wh-whaaat?! We can't! The presentation is only a few hours away!" The assistant panicked.
+
+"Entropy will take care of it. We made this sim to be self-healing. It will take years, but eventually, the system will take care of the errant code itself -- throw it out in one way or another. It has happened before. Many times actually. It resolves itself." The engineer said with brimming confidence.
+
+"But this might cause unnecessary damage--"
+
+"Naw man. This errance is non-malicious. It's simply... hmm... stupid. It can't really do any lasting harm."
+
+"Well... ahem... Can't say I'm okay with that, but --"
+
+"Look, if we do anything else, like manually extract it, that would mean restoring the sim to an earlier state. Messy. Lots of lost data. We did that once with the..." The engineer checked his logs. "...with the Mayan civilization and lost a lot of data. The sim reverted its constituents back to a primitive age, we can't have that any more."
+
+"Of... of course."
+
+"Let it just play out, eh?" The engineer tapped the assistant on the shoulder.
+
+"O...okay." The assistant sighed. "What do we call this errant occurrence? Errance 8412-aa-1 sounds long and hard to say."
+
+"Hmm, let's call it by what the sim named it. Let's see." The engineer opened a window and introspected the sim's hashtable. "Ah here we go."
+
+* * *
+
+"On a side note, my lord, an errant code has shown up. But the engineers have advised me to let it take care of itself. They say it should be gone by tomorrow noon. Around ten years in sim-time." The Overlord told Alpha Omega.
+
+"Oh? What is it this time?" The Alpha Omega asked with a brow raised, stroking its beard.
+
+"They call it..." the Overlord sifted through its papers. "Da -- no -- Donald. Donald Trump."

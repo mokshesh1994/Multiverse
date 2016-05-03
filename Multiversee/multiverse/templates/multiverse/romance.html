@@ -1,0 +1,13 @@
+{% extends 'multiverse/base.html' %}
+
+{% block content %}
+	<h1><u>Romance</u></h1>
+	{% for s in stories %}
+    	<div class = "story">
+        	<h4><a href="">{{ s.title }}</a></h4>
+        	<p><b>{{ s.author }}</b></p>
+        	<p>{{ s.snippit }}</p><hr>
+    	</div>
+            
+	{% endfor %}
+{% endblock %}

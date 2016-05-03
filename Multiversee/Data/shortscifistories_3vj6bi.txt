@@ -1,0 +1,82 @@
+(Mini-series) Apocalypsis [Part 2]
+frankz0509
+This is part two of my mini-series, Apocalypsis. Here's a link to [part one](https://www.reddit.com/r/shortscifistories/comments/3vfkjh/miniseries_apocalypsis_part_1/). If you enjoyed it so far, please comment! As always, your criticism is valued.
+
+---
+
+Part 2: Uncaught Exception
+---
+
+Yasmine woke up to the ringing of her phone. She put on her reading glasses and held the screen near her face. It was Garry. She checked the time. 12:05 AM.
+
+"Hey, G. What's up?" she answered, her voice overtly sleepy.
+
+"Come to the lab. Quick. Didn't you get the notif?" Gary answered with an alarmed tone. The tension in Gary's voice suddenly shook Yasmine wide awake.
+
+"I didn't. Wait." she scrolled her notifications down and an email caught her attention:
+
+> From: no-reply@alerts.genesys.net
+
+> To: ywaltzman@genesys.net
+
+> Subj: Critical System Notification
+
+> CC: gandressen@genesys.net, hfuller@genesys.net, [.. 2 others]
+
+> A critical warning was raised on the Level 9 server. Please contact the server administrator immediately. Exception: DISK_IO_ERROR (0_SPACE) on /labnine/core/disk.py l189.
+
+"On my way. Be there in 15." Yasmine hurriedly ended the call, and set Genesys Complex as the destination through her car's companion app.
+
+---
+
+"Fill me in, G." Yasmine said as she stepped through Level 9's glass sliding doors.
+
+"The system raised an I/O exception: basically, the server's disk space was maxed out. But it's impossible, I checked how much space was remaining just before we logged out yesterday, and there was more than 15 petas free. I suspect some bug in the code which wrote random blobs on a loop." Gary wiped his brows, hunched over the lab terminal.
+
+"Christ, the system woke us up over a bug. Whoever wrote the code for this is getting some serious ass-whoopin'." Yasmine declared, annoyed but half-jokingly. Her sunny disposition and cool temper is what made her the head of Level 9 lab, trumping the 200+ IQs of her peers and some innumerable PhD's. Not to say that she doesn't have a few titles of her own: she finished college when she was 14, got a master's in Microbiology by 18, and a PhD in Evolutionary Sciences, Biological Engineering, and Biochemistry by 25.
+
+"Hold on a sec," Gary straightened on his seat. "This can't be right." He pressed a few keys, moved and clicked the cursor a few times, and began inspecting a long server log.
+
+"What is it?" Yasmine crossed her arms.
+
+"It says here," Garry stiffened. "That there was no glitch in the code. The files that ate up the server's free disk space were actually output dumps from D3's brain activity."
+
+"Brain activity-- what?" Yasmine briskly walked towards Gary, and positioned herself just behind Gary's shoulder.
+
+"Here, look at this." Gary pointed on a section of the log. "These files are generated when ample brain activity is detected. Raw input from the EEG probe is processed through Keller's algorithm, translated into comprehensible data, compressed, and saved as raw binaries."
+
+"You mean the brain woke up?"
+
+"Yes. And it was pretty active. Logs indicate that it was..." Gary paused, and quietly exhaled sharply, shaking his head. "that it was conscious."
+
+"Impossible."
+
+"Look. The neural oscillations indicate neurons firing. Alpha waves. The brain was... is... awake."
+
+"Fascinating." Yasmine straightened her glasses. "Can we get an audio representation of its activity?"
+
+"Sure. Let me tweak the algorithm a bit." Gary opened the code for Keller's algorithm and edited a few parameters. "This'll take quite some time."
+
+---
+
+Yasmine returned with two cups of coffee. "Anything yet?" she asked.
+
+"Yep, we're ready to play the dumps as audio. You sure we wanna hear this?" Gary reached for the cup marked 'sugar-free'.
+
+"'Course. This is what we live for!" Yasmine took a sip.
+
+"Right." Gary chuckled. "Playing."
+
+Loud static played over the speakers, followed by indiscernible whispering. More static, and loud hissing. A faint voice.
+
+"Can't we clarify this more?" Yasmine asked, a shred of annoyance in her voice.
+
+"Let me see." Gary adjusted a knob near the speakers above the keyboard panel, and typed a few commands, rewinding playback. He hit play.
+
+The static is much more subtle now. The hissing now sounds like a deep voice groaning. The hairs on the back of Yasmine's neck stood up on their ends.
+
+"Oh my god." she said.
+
+"It..." Gary whispered, his tone betraying hidden terror. "It said 'help.'"
+
+The static grew softer, and there it was, very clearly: a deep-sounding voice, full of panic, terror, and anguish, crying out. "Help. Help me. Where am I? Help me, please."

@@ -30,8 +30,8 @@ non-fiction
 
 '''
 
-story_info_path = ".\\Data2-names\\pkl_story_info.pkl"
-story_text_path = ".\\Data2\\"   #pretty sure story_document.file_path has the full path and we shouldn't need the .\\Data2\\ part
+story_info_path = "Data2-names/pkl_story_info.pkl"
+#story_text_path = "Data2"   #pretty sure story_document.file_path has the full path and we shouldn't need the .\\Data2\\ part
 
 '''
 
@@ -48,7 +48,7 @@ story = story_document() #should be new instance of story_document class
 #If you want to view all variables/fields in story, use pprint(vars(story)), it will tell you what
     #each variable is and its value
 
-pickle_file = open(story_info_path, 'rb') #'rb' is needed, stands for read bytes vs. read since the file information is binary stored
+pickle_file = open('story_info_path', 'rb') #'rb' is needed, stands for read bytes vs. read since the file information is binary stored
 story_list = []
 
 while 1:
@@ -58,6 +58,7 @@ while 1:
     except (EOFError, pickle.UnpicklingError):     #dealing with end of file
         break
 pickle_file.close()
+
 
 classification = {}
 
@@ -84,7 +85,7 @@ for i in range(25):
 cls_term_counts = {}
 cls_term_totals = {}
 cls_prob = {}
-
+'''
 #story_text_file = open(story_list[4].file_path, 'r')
 #story_text_list = story_text_file.read().replace('.','').replace('*','').replace('"','').replace('!','')\
 #                          .replace(',','').replace('?','').replace(':','').replace(';','').lower().split()
@@ -93,7 +94,7 @@ cls_prob = {}
 
 #cls_term_counts['sci fi'] = Counter(story_text_list)
 #print cls_term_counts['sci fi']['i']
-
+'''
 for cls_elem in classification:
     if not cls_prob.has_key(cls_elem):
         cls_prob[cls_elem] = (len(classification[cls_elem])/float(num_train_files))
@@ -123,9 +124,10 @@ for elm in cls_term_totals:
 print x
 weird_x = x
 
-
+'''
 ##This is where we classify unknown documents, or known documents to evalutate our classifier.
 ##Should loop it over some data set we want to classify.
+'''
 for elem in test_story_lists:
     
     #test_text_path = ".\\Data\\hfy_4ag99n.txt"
